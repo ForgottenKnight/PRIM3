@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: New Avatar Mask
+  m_Mask: 01000000000000000000000001000000010000000000000000000000000000000000000001000000010000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: LP_Capa
+    m_Weight: 0
+  - m_Path: LP_Cuerpo001
+    m_Weight: 0
+  - m_Path: Slphr_
+    m_Weight: 0
+  - m_Path: Slphr_Brazo_IIKTarget
+    m_Weight: 0
+  - m_Path: Slphr_Brazo_RIKTarget
+    m_Weight: 0
+  - m_Path: Slphr_Hub001
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_LLeg1
+    m_Weight: 1
+  - m_Path: Slphr_Hub001/Slphr_LLeg1/Slphr_LLeg2
+    m_Weight: 1
+  - m_Path: Slphr_Hub001/Slphr_LLeg1/Slphr_LLeg2/Slphr_LLegAnkle
+    m_Weight: 1
+  - m_Path: Slphr_Hub001/Slphr_LLeg1/Slphr_LLeg2/Slphr_LLegAnkle/Slphr_LLegDigit11
+    m_Weight: 1
+  - m_Path: Slphr_Hub001/Slphr_RLeg1
+    m_Weight: 1
+  - m_Path: Slphr_Hub001/Slphr_RLeg1/Slphr_RLeg2
+    m_Weight: 1
+  - m_Path: Slphr_Hub001/Slphr_RLeg1/Slphr_RLeg2/Slphr_RLegAnkle
+    m_Weight: 1
+  - m_Path: Slphr_Hub001/Slphr_RLeg1/Slphr_RLeg2/Slphr_RLegAnkle/Slphr_RLegDigit11
+    m_Weight: 1
+  - m_Path: Slphr_Hub001/Slphr_Spine1
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_ICollarbone
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_ICollarbone/Slphr_Brazo_I1
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_ICollarbone/Slphr_Brazo_I1/Slphr_Brazo_I2
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_ICollarbone/Slphr_Brazo_I1/Slphr_Brazo_I2/Slphr_Brazo_IPalm
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_ICollarbone/Slphr_Brazo_I1/Slphr_Brazo_I2/Slphr_Brazo_IPalm/Slphr_Brazo_IDigit11
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_ICollarbone/Slphr_Brazo_I1/Slphr_Brazo_I2/Slphr_Brazo_IPalm/Slphr_Brazo_IDigit11/Slphr_Brazo_IDigit12
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_ICollarbone/Slphr_Brazo_I1/Slphr_Brazo_I2/Slphr_Brazo_IPalm/Slphr_Brazo_IDigit11/Slphr_Brazo_IDigit12/Slphr_Brazo_IDigit13
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_ICollarbone/Slphr_Brazo_I1/Slphr_Brazo_I2/Slphr_Brazo_IPalm/Slphr_Brazo_IDigit21
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_ICollarbone/Slphr_Brazo_I1/Slphr_Brazo_I2/Slphr_Brazo_IPalm/Slphr_Brazo_IDigit21/Slphr_Brazo_IDigit22
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_ICollarbone/Slphr_Brazo_I1/Slphr_Brazo_I2/Slphr_Brazo_IPalm/Slphr_Brazo_IDigit21/Slphr_Brazo_IDigit22/Slphr_Brazo_IDigit23
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_ICollarbone/Slphr_Brazo_I1/Slphr_Brazo_I2/Slphr_Brazo_IPalm/Slphr_Brazo_IDigit31
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_ICollarbone/Slphr_Brazo_I1/Slphr_Brazo_I2/Slphr_Brazo_IPalm/Slphr_Brazo_IDigit31/Slphr_Brazo_IDigit32
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_ICollarbone/Slphr_Brazo_I1/Slphr_Brazo_I2/Slphr_Brazo_IPalm/Slphr_Brazo_IDigit31/Slphr_Brazo_IDigit32/Slphr_Brazo_IDigit33
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_ICollarbone/Slphr_Brazo_I1/Slphr_Brazo_I2/Slphr_Brazo_IPalm/Slphr_Brazo_IDigit41
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_ICollarbone/Slphr_Brazo_I1/Slphr_Brazo_I2/Slphr_Brazo_IPalm/Slphr_Brazo_IDigit41/Slphr_Brazo_IDigit42
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_ICollarbone/Slphr_Brazo_I1/Slphr_Brazo_I2/Slphr_Brazo_IPalm/Slphr_Brazo_IDigit41/Slphr_Brazo_IDigit42/Slphr_Brazo_IDigit43
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_ICollarbone/Slphr_Brazo_I1/Slphr_Brazo_I2/Slphr_Brazo_IPalm/Slphr_Brazo_IDigit51
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_ICollarbone/Slphr_Brazo_I1/Slphr_Brazo_I2/Slphr_Brazo_IPalm/Slphr_Brazo_IDigit51/Slphr_Brazo_IDigit52
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_ICollarbone/Slphr_Brazo_I1/Slphr_Brazo_I2/Slphr_Brazo_IPalm/Slphr_Brazo_IDigit51/Slphr_Brazo_IDigit52/Slphr_Brazo_IDigit53
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_RCollarbone
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_RCollarbone/Slphr_Brazo_R1
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_RCollarbone/Slphr_Brazo_R1/Slphr_Brazo_R2
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_RCollarbone/Slphr_Brazo_R1/Slphr_Brazo_R2/Slphr_Brazo_RPalm
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_RCollarbone/Slphr_Brazo_R1/Slphr_Brazo_R2/Slphr_Brazo_RPalm/Slphr_Brazo_RDigit11
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_RCollarbone/Slphr_Brazo_R1/Slphr_Brazo_R2/Slphr_Brazo_RPalm/Slphr_Brazo_RDigit11/Slphr_Brazo_RDigit12
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_RCollarbone/Slphr_Brazo_R1/Slphr_Brazo_R2/Slphr_Brazo_RPalm/Slphr_Brazo_RDigit11/Slphr_Brazo_RDigit12/Slphr_Brazo_RDigit13
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_RCollarbone/Slphr_Brazo_R1/Slphr_Brazo_R2/Slphr_Brazo_RPalm/Slphr_Brazo_RDigit21
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_RCollarbone/Slphr_Brazo_R1/Slphr_Brazo_R2/Slphr_Brazo_RPalm/Slphr_Brazo_RDigit21/Slphr_Brazo_RDigit22
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_RCollarbone/Slphr_Brazo_R1/Slphr_Brazo_R2/Slphr_Brazo_RPalm/Slphr_Brazo_RDigit21/Slphr_Brazo_RDigit22/Slphr_Brazo_RDigit23
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_RCollarbone/Slphr_Brazo_R1/Slphr_Brazo_R2/Slphr_Brazo_RPalm/Slphr_Brazo_RDigit31
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_RCollarbone/Slphr_Brazo_R1/Slphr_Brazo_R2/Slphr_Brazo_RPalm/Slphr_Brazo_RDigit31/Slphr_Brazo_RDigit32
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_RCollarbone/Slphr_Brazo_R1/Slphr_Brazo_R2/Slphr_Brazo_RPalm/Slphr_Brazo_RDigit31/Slphr_Brazo_RDigit32/Slphr_Brazo_RDigit33
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_RCollarbone/Slphr_Brazo_R1/Slphr_Brazo_R2/Slphr_Brazo_RPalm/Slphr_Brazo_RDigit41
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_RCollarbone/Slphr_Brazo_R1/Slphr_Brazo_R2/Slphr_Brazo_RPalm/Slphr_Brazo_RDigit41/Slphr_Brazo_RDigit42
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_RCollarbone/Slphr_Brazo_R1/Slphr_Brazo_R2/Slphr_Brazo_RPalm/Slphr_Brazo_RDigit41/Slphr_Brazo_RDigit42/Slphr_Brazo_RDigit43
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_RCollarbone/Slphr_Brazo_R1/Slphr_Brazo_R2/Slphr_Brazo_RPalm/Slphr_Brazo_RDigit51
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_RCollarbone/Slphr_Brazo_R1/Slphr_Brazo_R2/Slphr_Brazo_RPalm/Slphr_Brazo_RDigit51/Slphr_Brazo_RDigit52
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Brazo_RCollarbone/Slphr_Brazo_R1/Slphr_Brazo_R2/Slphr_Brazo_RPalm/Slphr_Brazo_RDigit51/Slphr_Brazo_RDigit52/Slphr_Brazo_RDigit53
+    m_Weight: 0
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Spine
+    m_Weight: 1
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Spine/Slphr_Hub003
+    m_Weight: 1
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Spine/Slphr_Hub003/Slphr_Hub003Bone001
+    m_Weight: 1
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Spine/Slphr_Hub003/Slphr_Hub003Bone001/Slphr_Hub003Bone001Bone001
+    m_Weight: 1
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Spine/Slphr_Hub003/Slphr_Hub003Bone001/Slphr_Hub003Bone001Bone002
+    m_Weight: 1
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Spine/Slphr_Hub003/Slphr_Hub003Bone002
+    m_Weight: 1
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Spine/Slphr_Hub003/Slphr_Hub003Bone002
+      1
+    m_Weight: 1
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Spine/Slphr_Hub003/Slphr_Hub003Bone002
+      2
+    m_Weight: 1
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Spine/Slphr_Hub003/Slphr_Hub003Bone002
+      3
+    m_Weight: 1
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Spine/Slphr_Hub003/Slphr_Hub003Bone002
+      4
+    m_Weight: 1
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Spine/Slphr_Hub003/Slphr_Hub003Bone002
+      5
+    m_Weight: 1
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Spine/Slphr_Hub003/Slphr_Hub003Bone002
+      6
+    m_Weight: 1
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Spine/Slphr_Hub003/Slphr_Hub003Bone002
+      7
+    m_Weight: 1
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Spine/Slphr_Hub003/Slphr_Hub003Bone002
+      8
+    m_Weight: 1
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Spine/Slphr_Hub003/Slphr_Hub003Bone002
+      9
+    m_Weight: 1
+  - m_Path: Slphr_Hub001/Slphr_Spine1/Slphr_Spine2/Slphr_Hub002/Slphr_Spine/Slphr_Hub003/Slphr_Hub003Bone002
+      10
+    m_Weight: 1
+  - m_Path: Slphr_LLegPlatform
+    m_Weight: 1
+  - m_Path: Slphr_RLegPlatform
+    m_Weight: 1

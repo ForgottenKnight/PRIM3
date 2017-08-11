@@ -1,0 +1,34 @@
+Instrucciones:
+
+Los controles se indican a medida que se juega.
+Al principio del primer nivel hay un portal que lleva directamente al nivel 2. Esto es así por cuestiones de debug, tanto para el equipo como para probar el prototipo rápidamente sin tener que volver a pasar por el nivel 1 entero.
+Puesto que las animaciones son provisionales, un indicador visual muestra el rango de alcance de los enemigos y jugadores.
+
+
+Progreso del nivel 1 para un jugador:
+- Saltar por el escenario hasta llegar a los troncos.
+- Pulsar A / Shift izquierdo para rodar por debajo de los troncos.
+- Utilizar X (mando) / Z (teclado) para atacar a los golems.
+- Saltar por las plataformas y utilizar la habilidad de Mercury (azul) con Y (mando) / C (teclado) para llegar al otro lado.
+- Quedarse encima de la runa para activarla.
+- Cambiar a Sulphur (verde), marcar al árbol pulsando el stick derecho / V. Si ha funcionado, se verá una marca en el árbol.
+- Disparar al árbol con la habilidad de Sulphur.
+- Volver abajo y pasar por el tronco.
+- Pasar por el puente y derrotar a los golems en la última zona. Es más fácil marcándolos con Stick derecho / V.
+- Tras derrotarlos, entrar al portal.
+
+Progreso del nivel 2 para un jugador:
+- Avanzar por el único camino posible saltando por las islas. Activar las runas por el camino.
+- Al aparecer la nueva isla, pulsar la runa que tiene. Se puede pulsar esquivando a los golems, o usando el escudo de Salt(rojo), o derrotando a los golems antes.
+- Volver y avanzar por el pasillo. El pasillo se cae y hay que esquivar golems y obstáculos (saltando y rodando) para llegar a la zona segura.
+- Derrotar a todos los golems de la zona para hacer aparecer el super golem.
+- El super golem no recibe daño de ataques normales ni habilidades de personaje. Hay que colocar marcas de superhabilidad para derrotarlo.
+- Para ejecutar la superhabilidad, pulsar el gatillo derecho / G. Aparecerá una marca. Deben estar las tres marcas en escena. Para ejecutar la superhabilidad de tierra, la marca de Mercury (azul) debe estar abajo de las otras dos, y la habilidad se ejecutará en el centro del triángulo que formen.
+- Tras golpear 4 veces al golem con la superhabilidad, avanzar saltando por encima de la roca.
+- Derrotar a los golems o pasar de ellos para llegar a la zona de nenúfares.
+- Resolución del puzzle para un jugador: Comenzando por el tercer nenúfar desde la izquierda, seguir estos pasos: izquierda, izquierda, derecha, arriba, arriba, derecha, derecha, abajo, derecha, teletransporte (Mercury, azul) hasta el nenúfar de la runa, dos nenúfares encima del nenúfar actual.
+- Destruir el tronco a la izquierda de los nenúfares para avanzar a la siguiente zona.
+- En esta zona hay piedras. Unas son golems y las otras son piedras destruibles por la superhabilidad de tierra (como se mata al golem gigante).
+- Hay que destruir piedras hasta revelar una runa. La runa está en la piedra de más abajo izquierda.
+- Cuando la biblioteca termina de emerger, derrotar a los enemigos.
+Buena suerte!

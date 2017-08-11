@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<events>
+	<event name="Tutorial_Superability" type="tutorial">
+		<page>
+			<header>Habilidades especiales</header>
+			<subheader>Super Habilidad</subheader>
+			<text>Puedes colocar marcas en el suelo para invocar la superhabilidad. El resultado depende de la posición de la marca azul.</text>
+		</page>
+		<page>
+			<header>Habilidades especiales</header>
+			<subheader>Super Habilidad</subheader>
+			<text>Para hacer la superhabilidad de tierra, la marca de Mercury debe estar bajo las de Salt y Sulphur.</text>
+		</page>
+	</event>	
+	<event name="Superability" type="dialog" image="none">
+		<page>
+			<text>Coloca la marca azul debajo de las otras dos formando un triángulo para derrotar al enemigo.</text>
+		</page>
+	</event>
+
+	<event name="Dialog_StoppedPlayers" type="dialog">
+		<page>
+			<text>En ocasiones será necesario que todos los jugadores alcancen una zona para poder avanzar.</text>
+		</page>
+	</event>
+
+	<event name="Dialog_Wall" type="dialog">
+		<page>
+			<text>Debe haber alguna forma de mover esta pared. Exploremos la zona.</text>
+		</page>
+	</event>
+	<event name="PlataformaQueSeCae" type="dialog">
+		<page>
+			<text>El suelo se hunde. ¡Corred!</text>
+		</page>
+	</event>
+	<event name="SuperGolemKillCondition" type="dialog">
+		<page>		
+			<text>Derrota a todos los enemigos antes de continuar.</text>
+		</page>
+	</event>
+	<event name="NenufaresTutorial" type="dialog">
+		<page>
+			<text>Presiento una runa en esa isla en medio de los nenúfares ¡Tenemos que llegar allí!</text>
+		</page>
+	</event>
+	<event name="PiedrasTutorial" type="dialog">
+		<page>
+			<text>Podemos destruir estas piedras con nuestra super habilidad. Quizá así encontremos la clave para continuar.</text>
+		</page>
+	</event>
+	<event name="PedruscoTutorial" type="dialog">
+		<page>
+			<text>Creo que podríamos destruir esta piedra con nuestra habilidad de tierra. Mercury, ve al otro lado de la piedra.</text>
+		</page>
+	</event>
+</events>

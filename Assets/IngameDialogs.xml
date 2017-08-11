@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<ingame_dialogs>
+	<ingame_dialog
+		name="L1_Plataforma"
+		sound_event="L1_Plataforma"
+		character="2"
+		triggers="EVENT" >
+		Ahora podemos pasar por esa
+		plataforma.
+	</ingame_dialog>
+	<ingame_dialog
+		name="L1_Trunk"
+		sound_event="L1_Trunk"
+		character="1"
+		triggers="EVENT" >
+		¡Toma ya! ¡Ningún árbol se ríe
+		del gran Sulphur!
+	</ingame_dialog>
+	<ingame_dialog
+		name="L1_Golems"
+		sound_event="L1_Golems"
+		character="0"
+		triggers="EVENT" >
+		Cuidado. No subestiméis a estos
+		golems solo por ser lentos.
+	</ingame_dialog>
+	<ingame_dialog
+		name="L1_Puente"
+		sound_event="L1_Puente"
+		character="2"
+		triggers="EVENT" >
+		¡Oh, no! ¡Se viene abajo!
+	</ingame_dialog>
+  <ingame_dialog
+		name="L2_P1"
+		sound_event="L2_P1"
+		character="0"
+		triggers="EVENT" >
+    Tenemos que activar la runa
+    evitando a esos golems.
+  </ingame_dialog>
+  <ingame_dialog
+		name="L2_C1"
+		sound_event="L2_C1"
+		character="1"
+		triggers="EVENT" >
+    ¡Oh mi**da, CORREEEED!
+  </ingame_dialog>
+  <ingame_dialog
+		name="L2_H1"
+		sound_event="L2_H1"
+		character="2"
+		triggers="EVENT" >
+    Colocaré mi marca debajo de la
+    vuestra. ¡Tenemos que ser rápidos!
+  </ingame_dialog>
+  <ingame_dialog
+		name="L2_P2"
+		sound_event="L2_P2"
+		character="2"
+		triggers="EVENT" >
+    Percibo una runa cerca. Seguramente
+    sirva para emerger la biblioteca.
+  </ingame_dialog>
+  <ingame_dialog
+		name="L2_P3"
+		sound_event="L2_P3"
+		character="0"
+		triggers="EVENT" >
+    Estas rocas parecen sospechosas.
+    Podemos destruirlas con el Triskelion.
+  </ingame_dialog>
+	<ingame_dialog
+		name="salt_wait1"
+		sound_event="salt_wait1"
+		character="0"
+		triggers="WAIT" >
+		Vamos, venid. No quiero que
+		os metais lios por separarnos.
+	</ingame_dialog>
+	<ingame_dialog
+		name="salt_wait2"
+		sound_event="salt_wait2"
+		character="0"
+		triggers="WAIT" >
+		Esperare pacientemente aqui.
+	</ingame_dialog>
+	<ingame_dialog
+		name="sulphur_wait1"
+		sound_event="sulphur_wait1"
+		character="1"
+		triggers="WAIT" >
+		Vamos, ¡sois unos lentos!
+	</ingame_dialog>
+	<ingame_dialog
+		name="sulphur_wait2"
+		sound_event="sulphur_wait2"
+		character="1"
+		triggers="WAIT" >
+		¡Estais tardando un siglo!
+	</ingame_dialog>
+	<ingame_dialog
+		name="mercury_wait1"
+		sound_event="mercury_wait1"
+		character="2"
+		triggers="WAIT" >
+		Tomaos vuestro tiempo.
+	</ingame_dialog>
+	<ingame_dialog
+		name="mercury_wait2"
+		sound_event="mercury_wait2"
+		character="2"
+		triggers="WAIT" >
+		Aprovecharé para meditar.
+	</ingame_dialog>
+	<ingame_dialog
+		name="test_monster_kill"
+		sound_event="test_voice"
+		character="2"
+		triggers="MONSTER_KILL" >
+		Esto es un dialogo de texto
+		que sale al matar un monstruo.
+	</ingame_dialog>
+	<ingame_dialog
+		name="test_random"
+		sound_event="test_voice"
+		character="0"
+		triggers="RANDOM" >
+		Esto es un dialogo de texto
+		que sale aleatoriamente.
+	</ingame_dialog>
+</ingame_dialogs>
+
+<!--
+	Tipos de trigger:
+	EVENT: Por evento
+	WAIT: Al esperar a otros jugadores
+	MONSTER_KILL: Al matar a un monstruo
+	MONSTER_STRONG: Al recibir daÃ±o de un monstruo y bajar de cierto % de vida
+	RANDOM: Aleatoriamente durante el nivel
+	RANDOM_BATTLE: Aleatoriamente durante una batalla
+-->

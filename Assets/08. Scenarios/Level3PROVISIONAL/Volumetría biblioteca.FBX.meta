@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: f15607da66e818e4abd244c12d17dfaf
+timeCreated: 1498846902
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arena boss
+    100002: ascensor
+    100004: biblioteca
+    100006: columna 1
+    100008: columna 10
+    100010: columna 2
+    100012: columna 3
+    100014: columna 4
+    100016: columna 5
+    100018: columna 6
+    100020: columna 7
+    100022: columna 8
+    100024: columna 9
+    100026: escalera001
+    100028: estanteria  8
+    100030: estanteria 1
+    100032: estanteria 10
+    100034: estanteria 11
+    100036: estanteria 12
+    100038: estanteria 13
+    100040: estanteria 14
+    100042: estanteria 15
+    100044: estanteria 16
+    100046: estanteria 17
+    100048: estanteria 18
+    100050: estanteria 19
+    100052: estanteria 2
+    100054: estanteria 20
+    100056: estanteria 21
+    100058: estanteria 22
+    100060: estanteria 23
+    100062: estanteria 24
+    100064: estanteria 25
+    100066: estanteria 26
+    100068: estanteria 3
+    100070: estanteria 4
+    100072: estanteria 5
+    100074: estanteria 6
+    100076: estanteria 7
+    100078: estanteria 9
+    100080: pilas de libros 1
+    100082: pilas de libros 10
+    100084: pilas de libros 11
+    100086: pilas de libros 12
+    100088: pilas de libros 13
+    100090: pilas de libros 2
+    100092: pilas de libros 3
+    100094: pilas de libros 4
+    100096: pilas de libros 5
+    100098: pilas de libros 6
+    100100: pilas de libros 7
+    100102: pilas de libros 8
+    100104: pilas de libros 9
+    100106: repositorio 1
+    100108: repositorio 2
+    100110: repositorio 4
+    100112: repositorio3
+    100114: //RootNode
+    400000: arena boss
+    400002: ascensor
+    400004: biblioteca
+    400006: columna 1
+    400008: columna 10
+    400010: columna 2
+    400012: columna 3
+    400014: columna 4
+    400016: columna 5
+    400018: columna 6
+    400020: columna 7
+    400022: columna 8
+    400024: columna 9
+    400026: escalera001
+    400028: estanteria  8
+    400030: estanteria 1
+    400032: estanteria 10
+    400034: estanteria 11
+    400036: estanteria 12
+    400038: estanteria 13
+    400040: estanteria 14
+    400042: estanteria 15
+    400044: estanteria 16
+    400046: estanteria 17
+    400048: estanteria 18
+    400050: estanteria 19
+    400052: estanteria 2
+    400054: estanteria 20
+    400056: estanteria 21
+    400058: estanteria 22
+    400060: estanteria 23
+    400062: estanteria 24
+    400064: estanteria 25
+    400066: estanteria 26
+    400068: estanteria 3
+    400070: estanteria 4
+    400072: estanteria 5
+    400074: estanteria 6
+    400076: estanteria 7
+    400078: estanteria 9
+    400080: pilas de libros 1
+    400082: pilas de libros 10
+    400084: pilas de libros 11
+    400086: pilas de libros 12
+    400088: pilas de libros 13
+    400090: pilas de libros 2
+    400092: pilas de libros 3
+    400094: pilas de libros 4
+    400096: pilas de libros 5
+    400098: pilas de libros 6
+    400100: pilas de libros 7
+    400102: pilas de libros 8
+    400104: pilas de libros 9
+    400106: repositorio 1
+    400108: repositorio 2
+    400110: repositorio 4
+    400112: repositorio3
+    400114: //RootNode
+    2300000: arena boss
+    2300002: ascensor
+    2300004: biblioteca
+    2300006: columna 1
+    2300008: columna 10
+    2300010: columna 2
+    2300012: columna 3
+    2300014: columna 4
+    2300016: columna 5
+    2300018: columna 6
+    2300020: columna 7
+    2300022: columna 8
+    2300024: columna 9
+    2300026: escalera001
+    2300028: estanteria  8
+    2300030: estanteria 1
+    2300032: estanteria 10
+    2300034: estanteria 11
+    2300036: estanteria 12
+    2300038: estanteria 13
+    2300040: estanteria 14
+    2300042: estanteria 15
+    2300044: estanteria 16
+    2300046: estanteria 17
+    2300048: estanteria 18
+    2300050: estanteria 19
+    2300052: estanteria 2
+    2300054: estanteria 20
+    2300056: estanteria 21
+    2300058: estanteria 22
+    2300060: estanteria 23
+    2300062: estanteria 24
+    2300064: estanteria 25
+    2300066: estanteria 26
+    2300068: estanteria 3
+    2300070: estanteria 4
+    2300072: estanteria 5
+    2300074: estanteria 6
+    2300076: estanteria 7
+    2300078: estanteria 9
+    2300080: pilas de libros 1
+    2300082: pilas de libros 10
+    2300084: pilas de libros 11
+    2300086: pilas de libros 12
+    2300088: pilas de libros 13
+    2300090: pilas de libros 2
+    2300092: pilas de libros 3
+    2300094: pilas de libros 4
+    2300096: pilas de libros 5
+    2300098: pilas de libros 6
+    2300100: pilas de libros 7
+    2300102: pilas de libros 8
+    2300104: pilas de libros 9
+    2300106: repositorio 1
+    2300108: repositorio 2
+    2300110: repositorio 4
+    2300112: repositorio3
+    3300000: arena boss
+    3300002: ascensor
+    3300004: biblioteca
+    3300006: columna 1
+    3300008: columna 10
+    3300010: columna 2
+    3300012: columna 3
+    3300014: columna 4
+    3300016: columna 5
+    3300018: columna 6
+    3300020: columna 7
+    3300022: columna 8
+    3300024: columna 9
+    3300026: escalera001
+    3300028: estanteria  8
+    3300030: estanteria 1
+    3300032: estanteria 10
+    3300034: estanteria 11
+    3300036: estanteria 12
+    3300038: estanteria 13
+    3300040: estanteria 14
+    3300042: estanteria 15
+    3300044: estanteria 16
+    3300046: estanteria 17
+    3300048: estanteria 18
+    3300050: estanteria 19
+    3300052: estanteria 2
+    3300054: estanteria 20
+    3300056: estanteria 21
+    3300058: estanteria 22
+    3300060: estanteria 23
+    3300062: estanteria 24
+    3300064: estanteria 25
+    3300066: estanteria 26
+    3300068: estanteria 3
+    3300070: estanteria 4
+    3300072: estanteria 5
+    3300074: estanteria 6
+    3300076: estanteria 7
+    3300078: estanteria 9
+    3300080: pilas de libros 1
+    3300082: pilas de libros 10
+    3300084: pilas de libros 11
+    3300086: pilas de libros 12
+    3300088: pilas de libros 13
+    3300090: pilas de libros 2
+    3300092: pilas de libros 3
+    3300094: pilas de libros 4
+    3300096: pilas de libros 5
+    3300098: pilas de libros 6
+    3300100: pilas de libros 7
+    3300102: pilas de libros 8
+    3300104: pilas de libros 9
+    3300106: repositorio 1
+    3300108: repositorio 2
+    3300110: repositorio 4
+    3300112: repositorio3
+    4300000: biblioteca
+    4300002: repositorio 2
+    4300004: estanteria 26
+    4300006: pilas de libros 5
+    4300008: pilas de libros 1
+    4300010: escalera001
+    4300012: arena boss
+    4300014: columna 1
+    4300016: columna 2
+    4300018: columna 3
+    4300020: columna 4
+    4300022: columna 5
+    4300024: columna 6
+    4300026: columna 7
+    4300028: columna 8
+    4300030: columna 9
+    4300032: columna 10
+    4300034: estanteria 9
+    4300036: estanteria  8
+    4300038: estanteria 13
+    4300040: estanteria 10
+    4300042: estanteria 12
+    4300044: estanteria 11
+    4300046: estanteria 7
+    4300048: estanteria 6
+    4300050: estanteria 5
+    4300052: estanteria 4
+    4300054: estanteria 3
+    4300056: estanteria 1
+    4300058: estanteria 2
+    4300060: estanteria 15
+    4300062: estanteria 14
+    4300064: estanteria 16
+    4300066: estanteria 17
+    4300068: estanteria 18
+    4300070: estanteria 19
+    4300072: estanteria 21
+    4300074: estanteria 20
+    4300076: estanteria 22
+    4300078: estanteria 23
+    4300080: estanteria 24
+    4300082: estanteria 25
+    4300084: repositorio3
+    4300086: repositorio 4
+    4300088: repositorio 1
+    4300090: pilas de libros 7
+    4300092: pilas de libros 8
+    4300094: pilas de libros 6
+    4300096: pilas de libros 9
+    4300098: pilas de libros 10
+    4300100: pilas de libros 11
+    4300102: pilas de libros 12
+    4300104: pilas de libros 13
+    4300106: pilas de libros 3
+    4300108: pilas de libros 4
+    4300110: pilas de libros 2
+    4300112: ascensor
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

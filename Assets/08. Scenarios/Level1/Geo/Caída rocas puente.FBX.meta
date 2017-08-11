@@ -1,0 +1,907 @@
+fileFormatVersion: 2
+guid: 9b472c6b32fb2844589bb3d2c9d50b40
+timeCreated: 1494870986
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box001_Elements1
+    100002: Box001_Elements10
+    100004: Box001_Elements11
+    100006: Box001_Elements12
+    100008: Box001_Elements13
+    100010: Box001_Elements14
+    100012: Box001_Elements15
+    100014: Box001_Elements16
+    100016: Box001_Elements17
+    100018: Box001_Elements18
+    100020: Box001_Elements19
+    100022: Box001_Elements2
+    100024: Box001_Elements20
+    100026: Box001_Elements21
+    100028: Box001_Elements22
+    100030: Box001_Elements23
+    100032: Box001_Elements24
+    100034: Box001_Elements25
+    100036: Box001_Elements26
+    100038: Box001_Elements27
+    100040: Box001_Elements28
+    100042: Box001_Elements29
+    100044: Box001_Elements3
+    100046: Box001_Elements30
+    100048: Box001_Elements31
+    100050: Box001_Elements32
+    100052: Box001_Elements33
+    100054: Box001_Elements34
+    100056: Box001_Elements35
+    100058: Box001_Elements36
+    100060: Box001_Elements37
+    100062: Box001_Elements38
+    100064: Box001_Elements39
+    100066: Box001_Elements4
+    100068: Box001_Elements40
+    100070: Box001_Elements41
+    100072: Box001_Elements42
+    100074: Box001_Elements43
+    100076: Box001_Elements44
+    100078: Box001_Elements45
+    100080: Box001_Elements46
+    100082: Box001_Elements47
+    100084: Box001_Elements48
+    100086: Box001_Elements49
+    100088: Box001_Elements5
+    100090: Box001_Elements50
+    100092: Box001_Elements51
+    100094: Box001_Elements52
+    100096: Box001_Elements53
+    100098: Box001_Elements54
+    100100: Box001_Elements55
+    100102: Box001_Elements56
+    100104: Box001_Elements57
+    100106: Box001_Elements58
+    100108: Box001_Elements59
+    100110: Box001_Elements6
+    100112: Box001_Elements60
+    100114: Box001_Elements61
+    100116: Box001_Elements62
+    100118: Box001_Elements63
+    100120: Box001_Elements64
+    100122: Box001_Elements65
+    100124: Box001_Elements66
+    100126: Box001_Elements67
+    100128: Box001_Elements68
+    100130: Box001_Elements69
+    100132: Box001_Elements7
+    100134: Box001_Elements70
+    100136: Box001_Elements71
+    100138: Box001_Elements72
+    100140: Box001_Elements73
+    100142: Box001_Elements74
+    100144: Box001_Elements75
+    100146: Box001_Elements76
+    100148: Box001_Elements77
+    100150: Box001_Elements78
+    100152: Box001_Elements79
+    100154: Box001_Elements8
+    100156: Box001_Elements80
+    100158: Box001_Elements81
+    100160: Box001_Elements82
+    100162: Box001_Elements83
+    100164: Box001_Elements84
+    100166: Box001_Elements85
+    100168: Box001_Elements9
+    100170: //RootNode
+    400000: Box001_Elements1
+    400002: Box001_Elements10
+    400004: Box001_Elements11
+    400006: Box001_Elements12
+    400008: Box001_Elements13
+    400010: Box001_Elements14
+    400012: Box001_Elements15
+    400014: Box001_Elements16
+    400016: Box001_Elements17
+    400018: Box001_Elements18
+    400020: Box001_Elements19
+    400022: Box001_Elements2
+    400024: Box001_Elements20
+    400026: Box001_Elements21
+    400028: Box001_Elements22
+    400030: Box001_Elements23
+    400032: Box001_Elements24
+    400034: Box001_Elements25
+    400036: Box001_Elements26
+    400038: Box001_Elements27
+    400040: Box001_Elements28
+    400042: Box001_Elements29
+    400044: Box001_Elements3
+    400046: Box001_Elements30
+    400048: Box001_Elements31
+    400050: Box001_Elements32
+    400052: Box001_Elements33
+    400054: Box001_Elements34
+    400056: Box001_Elements35
+    400058: Box001_Elements36
+    400060: Box001_Elements37
+    400062: Box001_Elements38
+    400064: Box001_Elements39
+    400066: Box001_Elements4
+    400068: Box001_Elements40
+    400070: Box001_Elements41
+    400072: Box001_Elements42
+    400074: Box001_Elements43
+    400076: Box001_Elements44
+    400078: Box001_Elements45
+    400080: Box001_Elements46
+    400082: Box001_Elements47
+    400084: Box001_Elements48
+    400086: Box001_Elements49
+    400088: Box001_Elements5
+    400090: Box001_Elements50
+    400092: Box001_Elements51
+    400094: Box001_Elements52
+    400096: Box001_Elements53
+    400098: Box001_Elements54
+    400100: Box001_Elements55
+    400102: Box001_Elements56
+    400104: Box001_Elements57
+    400106: Box001_Elements58
+    400108: Box001_Elements59
+    400110: Box001_Elements6
+    400112: Box001_Elements60
+    400114: Box001_Elements61
+    400116: Box001_Elements62
+    400118: Box001_Elements63
+    400120: Box001_Elements64
+    400122: Box001_Elements65
+    400124: Box001_Elements66
+    400126: Box001_Elements67
+    400128: Box001_Elements68
+    400130: Box001_Elements69
+    400132: Box001_Elements7
+    400134: Box001_Elements70
+    400136: Box001_Elements71
+    400138: Box001_Elements72
+    400140: Box001_Elements73
+    400142: Box001_Elements74
+    400144: Box001_Elements75
+    400146: Box001_Elements76
+    400148: Box001_Elements77
+    400150: Box001_Elements78
+    400152: Box001_Elements79
+    400154: Box001_Elements8
+    400156: Box001_Elements80
+    400158: Box001_Elements81
+    400160: Box001_Elements82
+    400162: Box001_Elements83
+    400164: Box001_Elements84
+    400166: Box001_Elements85
+    400168: Box001_Elements9
+    400170: //RootNode
+    2300000: Box001_Elements1
+    2300002: Box001_Elements10
+    2300004: Box001_Elements11
+    2300006: Box001_Elements12
+    2300008: Box001_Elements13
+    2300010: Box001_Elements14
+    2300012: Box001_Elements15
+    2300014: Box001_Elements16
+    2300016: Box001_Elements17
+    2300018: Box001_Elements18
+    2300020: Box001_Elements19
+    2300022: Box001_Elements2
+    2300024: Box001_Elements20
+    2300026: Box001_Elements21
+    2300028: Box001_Elements22
+    2300030: Box001_Elements23
+    2300032: Box001_Elements24
+    2300034: Box001_Elements25
+    2300036: Box001_Elements26
+    2300038: Box001_Elements27
+    2300040: Box001_Elements28
+    2300042: Box001_Elements29
+    2300044: Box001_Elements3
+    2300046: Box001_Elements30
+    2300048: Box001_Elements31
+    2300050: Box001_Elements32
+    2300052: Box001_Elements33
+    2300054: Box001_Elements34
+    2300056: Box001_Elements35
+    2300058: Box001_Elements36
+    2300060: Box001_Elements37
+    2300062: Box001_Elements38
+    2300064: Box001_Elements39
+    2300066: Box001_Elements4
+    2300068: Box001_Elements40
+    2300070: Box001_Elements41
+    2300072: Box001_Elements42
+    2300074: Box001_Elements43
+    2300076: Box001_Elements44
+    2300078: Box001_Elements45
+    2300080: Box001_Elements46
+    2300082: Box001_Elements47
+    2300084: Box001_Elements48
+    2300086: Box001_Elements49
+    2300088: Box001_Elements5
+    2300090: Box001_Elements50
+    2300092: Box001_Elements51
+    2300094: Box001_Elements52
+    2300096: Box001_Elements53
+    2300098: Box001_Elements54
+    2300100: Box001_Elements55
+    2300102: Box001_Elements56
+    2300104: Box001_Elements57
+    2300106: Box001_Elements58
+    2300108: Box001_Elements59
+    2300110: Box001_Elements6
+    2300112: Box001_Elements60
+    2300114: Box001_Elements61
+    2300116: Box001_Elements62
+    2300118: Box001_Elements63
+    2300120: Box001_Elements64
+    2300122: Box001_Elements65
+    2300124: Box001_Elements66
+    2300126: Box001_Elements67
+    2300128: Box001_Elements68
+    2300130: Box001_Elements69
+    2300132: Box001_Elements7
+    2300134: Box001_Elements70
+    2300136: Box001_Elements71
+    2300138: Box001_Elements72
+    2300140: Box001_Elements73
+    2300142: Box001_Elements74
+    2300144: Box001_Elements75
+    2300146: Box001_Elements76
+    2300148: Box001_Elements77
+    2300150: Box001_Elements78
+    2300152: Box001_Elements79
+    2300154: Box001_Elements8
+    2300156: Box001_Elements80
+    2300158: Box001_Elements81
+    2300160: Box001_Elements82
+    2300162: Box001_Elements83
+    2300164: Box001_Elements84
+    2300166: Box001_Elements85
+    2300168: Box001_Elements9
+    3300000: Box001_Elements1
+    3300002: Box001_Elements10
+    3300004: Box001_Elements11
+    3300006: Box001_Elements12
+    3300008: Box001_Elements13
+    3300010: Box001_Elements14
+    3300012: Box001_Elements15
+    3300014: Box001_Elements16
+    3300016: Box001_Elements17
+    3300018: Box001_Elements18
+    3300020: Box001_Elements19
+    3300022: Box001_Elements2
+    3300024: Box001_Elements20
+    3300026: Box001_Elements21
+    3300028: Box001_Elements22
+    3300030: Box001_Elements23
+    3300032: Box001_Elements24
+    3300034: Box001_Elements25
+    3300036: Box001_Elements26
+    3300038: Box001_Elements27
+    3300040: Box001_Elements28
+    3300042: Box001_Elements29
+    3300044: Box001_Elements3
+    3300046: Box001_Elements30
+    3300048: Box001_Elements31
+    3300050: Box001_Elements32
+    3300052: Box001_Elements33
+    3300054: Box001_Elements34
+    3300056: Box001_Elements35
+    3300058: Box001_Elements36
+    3300060: Box001_Elements37
+    3300062: Box001_Elements38
+    3300064: Box001_Elements39
+    3300066: Box001_Elements4
+    3300068: Box001_Elements40
+    3300070: Box001_Elements41
+    3300072: Box001_Elements42
+    3300074: Box001_Elements43
+    3300076: Box001_Elements44
+    3300078: Box001_Elements45
+    3300080: Box001_Elements46
+    3300082: Box001_Elements47
+    3300084: Box001_Elements48
+    3300086: Box001_Elements49
+    3300088: Box001_Elements5
+    3300090: Box001_Elements50
+    3300092: Box001_Elements51
+    3300094: Box001_Elements52
+    3300096: Box001_Elements53
+    3300098: Box001_Elements54
+    3300100: Box001_Elements55
+    3300102: Box001_Elements56
+    3300104: Box001_Elements57
+    3300106: Box001_Elements58
+    3300108: Box001_Elements59
+    3300110: Box001_Elements6
+    3300112: Box001_Elements60
+    3300114: Box001_Elements61
+    3300116: Box001_Elements62
+    3300118: Box001_Elements63
+    3300120: Box001_Elements64
+    3300122: Box001_Elements65
+    3300124: Box001_Elements66
+    3300126: Box001_Elements67
+    3300128: Box001_Elements68
+    3300130: Box001_Elements69
+    3300132: Box001_Elements7
+    3300134: Box001_Elements70
+    3300136: Box001_Elements71
+    3300138: Box001_Elements72
+    3300140: Box001_Elements73
+    3300142: Box001_Elements74
+    3300144: Box001_Elements75
+    3300146: Box001_Elements76
+    3300148: Box001_Elements77
+    3300150: Box001_Elements78
+    3300152: Box001_Elements79
+    3300154: Box001_Elements8
+    3300156: Box001_Elements80
+    3300158: Box001_Elements81
+    3300160: Box001_Elements82
+    3300162: Box001_Elements83
+    3300164: Box001_Elements84
+    3300166: Box001_Elements85
+    3300168: Box001_Elements9
+    4300000: Box001_Elements85
+    4300002: Box001_Elements84
+    4300004: Box001_Elements83
+    4300006: Box001_Elements82
+    4300008: Box001_Elements81
+    4300010: Box001_Elements80
+    4300012: Box001_Elements79
+    4300014: Box001_Elements78
+    4300016: Box001_Elements77
+    4300018: Box001_Elements76
+    4300020: Box001_Elements75
+    4300022: Box001_Elements74
+    4300024: Box001_Elements73
+    4300026: Box001_Elements72
+    4300028: Box001_Elements71
+    4300030: Box001_Elements70
+    4300032: Box001_Elements69
+    4300034: Box001_Elements68
+    4300036: Box001_Elements67
+    4300038: Box001_Elements66
+    4300040: Box001_Elements65
+    4300042: Box001_Elements64
+    4300044: Box001_Elements63
+    4300046: Box001_Elements62
+    4300048: Box001_Elements61
+    4300050: Box001_Elements60
+    4300052: Box001_Elements59
+    4300054: Box001_Elements58
+    4300056: Box001_Elements57
+    4300058: Box001_Elements56
+    4300060: Box001_Elements55
+    4300062: Box001_Elements54
+    4300064: Box001_Elements53
+    4300066: Box001_Elements52
+    4300068: Box001_Elements51
+    4300070: Box001_Elements50
+    4300072: Box001_Elements49
+    4300074: Box001_Elements48
+    4300076: Box001_Elements47
+    4300078: Box001_Elements46
+    4300080: Box001_Elements45
+    4300082: Box001_Elements44
+    4300084: Box001_Elements43
+    4300086: Box001_Elements42
+    4300088: Box001_Elements41
+    4300090: Box001_Elements40
+    4300092: Box001_Elements39
+    4300094: Box001_Elements38
+    4300096: Box001_Elements37
+    4300098: Box001_Elements36
+    4300100: Box001_Elements35
+    4300102: Box001_Elements34
+    4300104: Box001_Elements33
+    4300106: Box001_Elements32
+    4300108: Box001_Elements31
+    4300110: Box001_Elements30
+    4300112: Box001_Elements29
+    4300114: Box001_Elements28
+    4300116: Box001_Elements27
+    4300118: Box001_Elements26
+    4300120: Box001_Elements25
+    4300122: Box001_Elements24
+    4300124: Box001_Elements23
+    4300126: Box001_Elements22
+    4300128: Box001_Elements21
+    4300130: Box001_Elements20
+    4300132: Box001_Elements19
+    4300134: Box001_Elements18
+    4300136: Box001_Elements17
+    4300138: Box001_Elements16
+    4300140: Box001_Elements15
+    4300142: Box001_Elements14
+    4300144: Box001_Elements13
+    4300146: Box001_Elements12
+    4300148: Box001_Elements11
+    4300150: Box001_Elements10
+    4300152: Box001_Elements9
+    4300154: Box001_Elements8
+    4300156: Box001_Elements7
+    4300158: Box001_Elements6
+    4300160: Box001_Elements5
+    4300162: Box001_Elements4
+    4300164: Box001_Elements3
+    4300166: Box001_Elements2
+    4300168: Box001_Elements1
+    7400000: BridgeDestruction
+    7400002: BridgeDestruction2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: BridgeDestruction
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001_Elements1
+        weight: 1
+      - path: Box001_Elements2
+        weight: 1
+      - path: Box001_Elements3
+        weight: 1
+      - path: Box001_Elements4
+        weight: 1
+      - path: Box001_Elements5
+        weight: 1
+      - path: Box001_Elements6
+        weight: 1
+      - path: Box001_Elements7
+        weight: 1
+      - path: Box001_Elements8
+        weight: 1
+      - path: Box001_Elements9
+        weight: 1
+      - path: Box001_Elements10
+        weight: 1
+      - path: Box001_Elements11
+        weight: 1
+      - path: Box001_Elements12
+        weight: 1
+      - path: Box001_Elements13
+        weight: 1
+      - path: Box001_Elements14
+        weight: 1
+      - path: Box001_Elements15
+        weight: 1
+      - path: Box001_Elements16
+        weight: 1
+      - path: Box001_Elements17
+        weight: 1
+      - path: Box001_Elements18
+        weight: 1
+      - path: Box001_Elements19
+        weight: 1
+      - path: Box001_Elements20
+        weight: 1
+      - path: Box001_Elements21
+        weight: 1
+      - path: Box001_Elements22
+        weight: 1
+      - path: Box001_Elements23
+        weight: 1
+      - path: Box001_Elements24
+        weight: 1
+      - path: Box001_Elements25
+        weight: 1
+      - path: Box001_Elements26
+        weight: 1
+      - path: Box001_Elements27
+        weight: 1
+      - path: Box001_Elements28
+        weight: 1
+      - path: Box001_Elements29
+        weight: 1
+      - path: Box001_Elements30
+        weight: 1
+      - path: Box001_Elements31
+        weight: 1
+      - path: Box001_Elements32
+        weight: 1
+      - path: Box001_Elements33
+        weight: 1
+      - path: Box001_Elements34
+        weight: 1
+      - path: Box001_Elements35
+        weight: 1
+      - path: Box001_Elements36
+        weight: 1
+      - path: Box001_Elements37
+        weight: 1
+      - path: Box001_Elements38
+        weight: 1
+      - path: Box001_Elements39
+        weight: 1
+      - path: Box001_Elements40
+        weight: 1
+      - path: Box001_Elements41
+        weight: 1
+      - path: Box001_Elements42
+        weight: 1
+      - path: Box001_Elements43
+        weight: 1
+      - path: Box001_Elements44
+        weight: 1
+      - path: Box001_Elements45
+        weight: 1
+      - path: Box001_Elements46
+        weight: 1
+      - path: Box001_Elements47
+        weight: 1
+      - path: Box001_Elements48
+        weight: 1
+      - path: Box001_Elements49
+        weight: 1
+      - path: Box001_Elements50
+        weight: 1
+      - path: Box001_Elements51
+        weight: 1
+      - path: Box001_Elements52
+        weight: 1
+      - path: Box001_Elements53
+        weight: 1
+      - path: Box001_Elements54
+        weight: 1
+      - path: Box001_Elements55
+        weight: 1
+      - path: Box001_Elements56
+        weight: 1
+      - path: Box001_Elements57
+        weight: 1
+      - path: Box001_Elements58
+        weight: 1
+      - path: Box001_Elements59
+        weight: 1
+      - path: Box001_Elements60
+        weight: 1
+      - path: Box001_Elements61
+        weight: 1
+      - path: Box001_Elements62
+        weight: 1
+      - path: Box001_Elements63
+        weight: 1
+      - path: Box001_Elements64
+        weight: 1
+      - path: Box001_Elements65
+        weight: 1
+      - path: Box001_Elements66
+        weight: 1
+      - path: Box001_Elements67
+        weight: 1
+      - path: Box001_Elements68
+        weight: 1
+      - path: Box001_Elements69
+        weight: 1
+      - path: Box001_Elements70
+        weight: 1
+      - path: Box001_Elements71
+        weight: 1
+      - path: Box001_Elements72
+        weight: 1
+      - path: Box001_Elements73
+        weight: 1
+      - path: Box001_Elements74
+        weight: 1
+      - path: Box001_Elements75
+        weight: 1
+      - path: Box001_Elements76
+        weight: 1
+      - path: Box001_Elements77
+        weight: 1
+      - path: Box001_Elements78
+        weight: 1
+      - path: Box001_Elements79
+        weight: 1
+      - path: Box001_Elements80
+        weight: 1
+      - path: Box001_Elements81
+        weight: 1
+      - path: Box001_Elements82
+        weight: 1
+      - path: Box001_Elements83
+        weight: 1
+      - path: Box001_Elements84
+        weight: 1
+      - path: Box001_Elements85
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BridgeDestruction2
+      takeName: Take 001
+      firstFrame: 156
+      lastFrame: 231
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001_Elements1
+        weight: 1
+      - path: Box001_Elements2
+        weight: 1
+      - path: Box001_Elements3
+        weight: 1
+      - path: Box001_Elements4
+        weight: 1
+      - path: Box001_Elements5
+        weight: 1
+      - path: Box001_Elements6
+        weight: 1
+      - path: Box001_Elements7
+        weight: 1
+      - path: Box001_Elements8
+        weight: 1
+      - path: Box001_Elements9
+        weight: 1
+      - path: Box001_Elements10
+        weight: 1
+      - path: Box001_Elements11
+        weight: 1
+      - path: Box001_Elements12
+        weight: 1
+      - path: Box001_Elements13
+        weight: 1
+      - path: Box001_Elements14
+        weight: 1
+      - path: Box001_Elements15
+        weight: 1
+      - path: Box001_Elements16
+        weight: 1
+      - path: Box001_Elements17
+        weight: 1
+      - path: Box001_Elements18
+        weight: 1
+      - path: Box001_Elements19
+        weight: 1
+      - path: Box001_Elements20
+        weight: 1
+      - path: Box001_Elements21
+        weight: 1
+      - path: Box001_Elements22
+        weight: 1
+      - path: Box001_Elements23
+        weight: 1
+      - path: Box001_Elements24
+        weight: 1
+      - path: Box001_Elements25
+        weight: 1
+      - path: Box001_Elements26
+        weight: 1
+      - path: Box001_Elements27
+        weight: 1
+      - path: Box001_Elements28
+        weight: 1
+      - path: Box001_Elements29
+        weight: 1
+      - path: Box001_Elements30
+        weight: 1
+      - path: Box001_Elements31
+        weight: 1
+      - path: Box001_Elements32
+        weight: 1
+      - path: Box001_Elements33
+        weight: 1
+      - path: Box001_Elements34
+        weight: 1
+      - path: Box001_Elements35
+        weight: 1
+      - path: Box001_Elements36
+        weight: 1
+      - path: Box001_Elements37
+        weight: 1
+      - path: Box001_Elements38
+        weight: 1
+      - path: Box001_Elements39
+        weight: 1
+      - path: Box001_Elements40
+        weight: 1
+      - path: Box001_Elements41
+        weight: 1
+      - path: Box001_Elements42
+        weight: 1
+      - path: Box001_Elements43
+        weight: 1
+      - path: Box001_Elements44
+        weight: 1
+      - path: Box001_Elements45
+        weight: 1
+      - path: Box001_Elements46
+        weight: 1
+      - path: Box001_Elements47
+        weight: 1
+      - path: Box001_Elements48
+        weight: 1
+      - path: Box001_Elements49
+        weight: 1
+      - path: Box001_Elements50
+        weight: 1
+      - path: Box001_Elements51
+        weight: 1
+      - path: Box001_Elements52
+        weight: 1
+      - path: Box001_Elements53
+        weight: 1
+      - path: Box001_Elements54
+        weight: 1
+      - path: Box001_Elements55
+        weight: 1
+      - path: Box001_Elements56
+        weight: 1
+      - path: Box001_Elements57
+        weight: 1
+      - path: Box001_Elements58
+        weight: 1
+      - path: Box001_Elements59
+        weight: 1
+      - path: Box001_Elements60
+        weight: 1
+      - path: Box001_Elements61
+        weight: 1
+      - path: Box001_Elements62
+        weight: 1
+      - path: Box001_Elements63
+        weight: 1
+      - path: Box001_Elements64
+        weight: 1
+      - path: Box001_Elements65
+        weight: 1
+      - path: Box001_Elements66
+        weight: 1
+      - path: Box001_Elements67
+        weight: 1
+      - path: Box001_Elements68
+        weight: 1
+      - path: Box001_Elements69
+        weight: 1
+      - path: Box001_Elements70
+        weight: 1
+      - path: Box001_Elements71
+        weight: 1
+      - path: Box001_Elements72
+        weight: 1
+      - path: Box001_Elements73
+        weight: 1
+      - path: Box001_Elements74
+        weight: 1
+      - path: Box001_Elements75
+        weight: 1
+      - path: Box001_Elements76
+        weight: 1
+      - path: Box001_Elements77
+        weight: 1
+      - path: Box001_Elements78
+        weight: 1
+      - path: Box001_Elements79
+        weight: 1
+      - path: Box001_Elements80
+        weight: 1
+      - path: Box001_Elements81
+        weight: 1
+      - path: Box001_Elements82
+        weight: 1
+      - path: Box001_Elements83
+        weight: 1
+      - path: Box001_Elements84
+        weight: 1
+      - path: Box001_Elements85
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

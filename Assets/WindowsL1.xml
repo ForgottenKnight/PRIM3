@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<events>
+	<event name="Tutorial_Move" type="tutorial">
+		<page>
+			<header>Controles básicos</header>
+			<subheader>Movimiento</subheader>
+			<text>Muévete por el escenario para avanzar.</text>
+		</page>
+		<page>
+			<header>Controles básicos</header>
+			<subheader>Salto</subheader>
+			<text>Saltar permite alzanzar lugares inaccesibles mediante movimiento.</text>
+		</page>
+	</event>
+	<event name="Dialog_Presentacion" type="dialog">
+		<page>
+			<text>Fiordos de Atlas</text>
+		</page>
+	</event>
+
+	<event name="Dialog_NOXTest" type="dialog" imagePosition="left">
+		<page>
+			<character>NOX</character>
+			<text>Bienvenidos a la gran biblioteca de Nox.</text>
+		</page>
+		<page>
+			<character>NOX</character>
+			<text> Espero que disfruten de su estancia...</text>
+		</page>
+	</event>
+
+	<event name="Tutorial_Rune" type="tutorial">
+		<page>
+			<header>Controles básicos</header>
+			<subheader>Runas</subheader>
+			<text>Pararte encima de las runas permite activarlas.</text>
+		</page>
+	</event>
+	<event name="Tutorial_Attack" type="tutorial">
+		<page>
+			<header>Controles básicos</header>
+			<subheader>Atacar</subheader>
+			<text>Atacar a los enemigos les causa daño. El daño se vera reflejado en su barra de vida.</text>
+		</page>
+		<page>
+			<header>Controles básicos</header>
+			<subheader>Impulso</subheader>
+			<text>Puedes impulsarte para esquivar a un enemigo o alejarte de él rápidamente.</text>
+		</page>
+		<page>
+			<header>Controles avanzados </header>
+			<subheader>Fijar objetivo</subheader>
+			<text>Pulsa el botón para marcar un objetivo. Los ataques y el proyectil de Sulphur se dirigirán automáticamente a él.</text>
+		</page>
+		<page>
+			<header>Controles avanzados </header>
+			<subheader>Fijar objetivo</subheader>
+			<text> Puedes cambiar de objetivos en cualquier momento.</text>
+		</page>
+	</event>
+	<event name="Tutorial_Ability_Salt" type="tutorial">
+		<page>
+			<header>Habilidades especiales</header>
+			<subheader>Escudo de Salt</subheader>
+			<text>El escudo de Salt bloquea ataques enemigos y protege a todos los aliados que se encuentren en su interior</text>
+		</page>
+    	<page>
+      		<header>Habilidades especiales</header>
+     		<subheader>Escudo de Salt</subheader>
+      		<text>Al desintegrarse, el scudo causará una onda expansiva que apartará a los enemigos cercanos a tu radio </text>
+    	</page>
+    	<page>
+      		<header>Habilidades especiales</header>
+      		<subheader>Escudo de Salt</subheader>
+      		<text>Tus aliados pueden subir sobre él para alzanzar zonas inaccesibles del escenario.</text>
+    	</page>
+    	<page>
+			<header>Habilidades especiales</header>
+			<subheader>Teleport de Mercury</subheader>
+			<text>Mercury puede alcanzar lugares alejados teletransportándose.</text>
+		</page>
+    	<page>
+      		<header>Habilidades especiales</header>
+      		<subheader>Teleport de Mercury</subheader>
+      		<text>Puedes mantener pulsado el botón para alcanzar mayores distancias.</text>
+    	</page>
+    	<page>
+      		<header>Habilidades especiales</header>
+      		<subheader>Bola de fuego de Sulphur</subheader>
+      		<text> Sulphur lanza proyectiles que dañan y desplazan tanto aliados como enemigos. ¡Cuidado con no darle a tus amigos!</text>
+    	</page>
+    	<page>
+      		<header>Habilidades especiales</header>
+      		<subheader>Bola de fuego de Sulphur</subheader>
+      		<text> En ocasiones el proyectil de Sulphur será útil para derribar ciertos elementos del escenario, como árboles.</text>
+    	</page>
+	</event>
+	<event name="Tutorial_Target" type="tutorial">
+		
+	</event>
+
+	<event name="Dialog_StoppedPlayers" type="dialog">
+		<page>
+			<text>En ocasiones será necesario que todos los jugadores alcancen una zona para poder avanzar.</text>
+		</page>
+	</event>
+
+</events>

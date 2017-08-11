@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: 57fe4468a2f0b84458ef9f8efd032489
+timeCreated: 1492375936
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ArbolRaices
+    100002: rootMesh
+    100004: rootMesh01
+    100006: rootMesh02
+    100008: rootMesh03
+    100010: rootMesh04
+    100012: rootMesh05
+    100014: rootMesh06
+    100016: roots01
+    100018: roots02
+    100020: roots03
+    100022: roots04
+    100024: roots05
+    100026: roots06
+    100028: roots07
+    100030: roots08
+    100032: roots09
+    100034: roots10
+    100036: roots11
+    100038: roots12
+    100040: roots13
+    100042: roots14
+    100044: roots15
+    100046: roots16
+    100048: roots17
+    100050: roots18
+    100052: //RootNode
+    400000: ArbolRaices
+    400002: rootMesh
+    400004: rootMesh01
+    400006: rootMesh02
+    400008: rootMesh03
+    400010: rootMesh04
+    400012: rootMesh05
+    400014: rootMesh06
+    400016: roots01
+    400018: roots02
+    400020: roots03
+    400022: roots04
+    400024: roots05
+    400026: roots06
+    400028: roots07
+    400030: roots08
+    400032: roots09
+    400034: roots10
+    400036: roots11
+    400038: roots12
+    400040: roots13
+    400042: roots14
+    400044: roots15
+    400046: roots16
+    400048: roots17
+    400050: roots18
+    400052: //RootNode
+    2300000: ArbolRaices
+    2300002: rootMesh
+    2300004: rootMesh01
+    2300006: rootMesh02
+    2300008: rootMesh03
+    2300010: rootMesh04
+    2300012: rootMesh05
+    2300014: rootMesh06
+    2300016: roots01
+    2300018: roots02
+    2300020: roots03
+    2300022: roots04
+    2300024: roots05
+    2300026: roots06
+    2300028: roots07
+    2300030: roots08
+    2300032: roots09
+    2300034: roots10
+    2300036: roots11
+    2300038: roots12
+    2300040: roots13
+    2300042: roots14
+    2300044: roots15
+    2300046: roots16
+    2300048: roots17
+    2300050: roots18
+    3300000: ArbolRaices
+    3300002: rootMesh
+    3300004: rootMesh01
+    3300006: rootMesh02
+    3300008: rootMesh03
+    3300010: rootMesh04
+    3300012: rootMesh05
+    3300014: rootMesh06
+    3300016: roots01
+    3300018: roots02
+    3300020: roots03
+    3300022: roots04
+    3300024: roots05
+    3300026: roots06
+    3300028: roots07
+    3300030: roots08
+    3300032: roots09
+    3300034: roots10
+    3300036: roots11
+    3300038: roots12
+    3300040: roots13
+    3300042: roots14
+    3300044: roots15
+    3300046: roots16
+    3300048: roots17
+    3300050: roots18
+    4300000: ArbolRaices
+    4300002: rootMesh01
+    4300004: rootMesh
+    4300006: rootMesh02
+    4300008: rootMesh03
+    4300010: rootMesh04
+    4300012: rootMesh05
+    4300014: rootMesh06
+    4300016: roots02
+    4300018: roots01
+    4300020: roots03
+    4300022: roots04
+    4300024: roots05
+    4300026: roots06
+    4300028: roots07
+    4300030: roots08
+    4300032: roots09
+    4300034: roots10
+    4300036: roots11
+    4300038: roots12
+    4300040: roots13
+    4300042: roots14
+    4300044: roots15
+    4300046: roots16
+    4300048: roots17
+    4300050: roots18
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

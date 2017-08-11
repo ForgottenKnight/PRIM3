@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: b186fd9e6fb30814680e30f130b6bfee
+timeCreated: 1493677133
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: LP_Capa
+    100002: LP_Cuerpo001
+    100004: Slphr_
+    100006: Slphr_Brazo_I1
+    100008: Slphr_Brazo_I2
+    100010: Slphr_Brazo_ICollarbone
+    100012: Slphr_Brazo_IDigit11
+    100014: Slphr_Brazo_IDigit12
+    100016: Slphr_Brazo_IDigit13
+    100018: Slphr_Brazo_IDigit21
+    100020: Slphr_Brazo_IDigit22
+    100022: Slphr_Brazo_IDigit23
+    100024: Slphr_Brazo_IDigit31
+    100026: Slphr_Brazo_IDigit32
+    100028: Slphr_Brazo_IDigit33
+    100030: Slphr_Brazo_IDigit41
+    100032: Slphr_Brazo_IDigit42
+    100034: Slphr_Brazo_IDigit43
+    100036: Slphr_Brazo_IDigit51
+    100038: Slphr_Brazo_IDigit52
+    100040: Slphr_Brazo_IDigit53
+    100042: Slphr_Brazo_IIKTarget
+    100044: Slphr_Brazo_IPalm
+    100046: Slphr_Brazo_R1
+    100048: Slphr_Brazo_R2
+    100050: Slphr_Brazo_RCollarbone
+    100052: Slphr_Brazo_RDigit11
+    100054: Slphr_Brazo_RDigit12
+    100056: Slphr_Brazo_RDigit13
+    100058: Slphr_Brazo_RDigit21
+    100060: Slphr_Brazo_RDigit22
+    100062: Slphr_Brazo_RDigit23
+    100064: Slphr_Brazo_RDigit31
+    100066: Slphr_Brazo_RDigit32
+    100068: Slphr_Brazo_RDigit33
+    100070: Slphr_Brazo_RDigit41
+    100072: Slphr_Brazo_RDigit42
+    100074: Slphr_Brazo_RDigit43
+    100076: Slphr_Brazo_RDigit51
+    100078: Slphr_Brazo_RDigit52
+    100080: Slphr_Brazo_RDigit53
+    100082: Slphr_Brazo_RIKTarget
+    100084: Slphr_Brazo_RPalm
+    100086: Slphr_Hub001
+    100088: Slphr_Hub002
+    100090: Slphr_Hub003
+    100092: Slphr_Hub003Bone001
+    100094: Slphr_Hub003Bone001Bone001
+    100096: Slphr_Hub003Bone001Bone002
+    100098: Slphr_Hub003Bone002
+    100100: Slphr_Hub003Bone002 1
+    100102: Slphr_Hub003Bone002 10
+    100104: Slphr_Hub003Bone002 2
+    100106: Slphr_Hub003Bone002 3
+    100108: Slphr_Hub003Bone002 4
+    100110: Slphr_Hub003Bone002 5
+    100112: Slphr_Hub003Bone002 6
+    100114: Slphr_Hub003Bone002 7
+    100116: Slphr_Hub003Bone002 8
+    100118: Slphr_Hub003Bone002 9
+    100120: Slphr_LLeg1
+    100122: Slphr_LLeg2
+    100124: Slphr_LLegAnkle
+    100126: Slphr_LLegDigit11
+    100128: Slphr_LLegPlatform
+    100130: Slphr_RLeg1
+    100132: Slphr_RLeg2
+    100134: Slphr_RLegAnkle
+    100136: Slphr_RLegDigit11
+    100138: Slphr_RLegPlatform
+    100140: Slphr_Spine
+    100142: Slphr_Spine1
+    100144: Slphr_Spine2
+    100146: //RootNode
+    400000: LP_Capa
+    400002: LP_Cuerpo001
+    400004: Slphr_
+    400006: Slphr_Brazo_I1
+    400008: Slphr_Brazo_I2
+    400010: Slphr_Brazo_ICollarbone
+    400012: Slphr_Brazo_IDigit11
+    400014: Slphr_Brazo_IDigit12
+    400016: Slphr_Brazo_IDigit13
+    400018: Slphr_Brazo_IDigit21
+    400020: Slphr_Brazo_IDigit22
+    400022: Slphr_Brazo_IDigit23
+    400024: Slphr_Brazo_IDigit31
+    400026: Slphr_Brazo_IDigit32
+    400028: Slphr_Brazo_IDigit33
+    400030: Slphr_Brazo_IDigit41
+    400032: Slphr_Brazo_IDigit42
+    400034: Slphr_Brazo_IDigit43
+    400036: Slphr_Brazo_IDigit51
+    400038: Slphr_Brazo_IDigit52
+    400040: Slphr_Brazo_IDigit53
+    400042: Slphr_Brazo_IIKTarget
+    400044: Slphr_Brazo_IPalm
+    400046: Slphr_Brazo_R1
+    400048: Slphr_Brazo_R2
+    400050: Slphr_Brazo_RCollarbone
+    400052: Slphr_Brazo_RDigit11
+    400054: Slphr_Brazo_RDigit12
+    400056: Slphr_Brazo_RDigit13
+    400058: Slphr_Brazo_RDigit21
+    400060: Slphr_Brazo_RDigit22
+    400062: Slphr_Brazo_RDigit23
+    400064: Slphr_Brazo_RDigit31
+    400066: Slphr_Brazo_RDigit32
+    400068: Slphr_Brazo_RDigit33
+    400070: Slphr_Brazo_RDigit41
+    400072: Slphr_Brazo_RDigit42
+    400074: Slphr_Brazo_RDigit43
+    400076: Slphr_Brazo_RDigit51
+    400078: Slphr_Brazo_RDigit52
+    400080: Slphr_Brazo_RDigit53
+    400082: Slphr_Brazo_RIKTarget
+    400084: Slphr_Brazo_RPalm
+    400086: Slphr_Hub001
+    400088: Slphr_Hub002
+    400090: Slphr_Hub003
+    400092: Slphr_Hub003Bone001
+    400094: Slphr_Hub003Bone001Bone001
+    400096: Slphr_Hub003Bone001Bone002
+    400098: Slphr_Hub003Bone002
+    400100: Slphr_Hub003Bone002 1
+    400102: Slphr_Hub003Bone002 10
+    400104: Slphr_Hub003Bone002 2
+    400106: Slphr_Hub003Bone002 3
+    400108: Slphr_Hub003Bone002 4
+    400110: Slphr_Hub003Bone002 5
+    400112: Slphr_Hub003Bone002 6
+    400114: Slphr_Hub003Bone002 7
+    400116: Slphr_Hub003Bone002 8
+    400118: Slphr_Hub003Bone002 9
+    400120: Slphr_LLeg1
+    400122: Slphr_LLeg2
+    400124: Slphr_LLegAnkle
+    400126: Slphr_LLegDigit11
+    400128: Slphr_LLegPlatform
+    400130: Slphr_RLeg1
+    400132: Slphr_RLeg2
+    400134: Slphr_RLegAnkle
+    400136: Slphr_RLegDigit11
+    400138: Slphr_RLegPlatform
+    400140: Slphr_Spine
+    400142: Slphr_Spine1
+    400144: Slphr_Spine2
+    400146: //RootNode
+    2300000: LP_Capa
+    3300000: LP_Capa
+    4300000: LP_Cuerpo001
+    4300002: LP_Capa
+    9500000: //RootNode
+    13700000: LP_Cuerpo001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

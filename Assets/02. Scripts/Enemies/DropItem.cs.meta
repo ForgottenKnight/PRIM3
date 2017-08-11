@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3b4c3eaaf64cfeb4a8c1cd35ffaa3eae
+timeCreated: 1493649127
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - prefabFauto: {fileID: 164852, guid: ea7dfb57f8af4d046b54574a6a346b78, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

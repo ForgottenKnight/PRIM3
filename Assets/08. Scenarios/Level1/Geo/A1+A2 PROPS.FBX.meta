@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: 5598537b4c7601846973a359faf7a319
+timeCreated: 1491998044
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: A1_A2_Pared
+    100004: A1_Altura1_1
+    100006: A1_Altura2_1
+    100008: A1_Altura3_1
+    100010: A1_Altura4_1
+    100012: A1_Altura5_1
+    100014: A1_Altura6_1
+    100016: A1_Altura7_1
+    100018: A2_Altura11_2
+    100020: A2_Altura8_1
+    100022: A2_Altura8_1 1
+    100024: A2_Altura8_2
+    100026: A2_Altura_11_1
+    100028: A2_arbol puzle_base
+    100030: A2_arbol puzle_hojas
+    100032: A2_arbol_1
+    100034: A2_arbol_2
+    100036: A2_arbol_3
+    100038: A2_arbol_4
+    100040: A2_arbol_5
+    100042: A2_arbol_6
+    100044: A2_arbol_7
+    100046: A2_arbol_puzle tronco
+    100048: A2_arboles
+    100050: A2_arboles001
+    100052: A2_arboles002
+    100054: A2_arboles003
+    100056: A2_arboles004
+    100058: A2_arboles006
+    100060: A2_arboles007
+    100062: A2_arboles008
+    100064: A2_arboles009
+    100066: A2_arboles010
+    100068: A2_Cascada
+    100070: A2_Pared 2
+    100072: A2_PlataformaEmergente
+    100074: A2_PlataformaEmergente_2
+    100076: A2_PlataformaMovil
+    100078: A2_Rio
+    100080: A2_ROCAS_CASCADA
+    100082: A2_ROCAS_CASCADA 1
+    100084: A2_rocas_puente
+    100086: A2_RUNA
+    100088: A2_RUNA_estructura
+    100090: A2_TroncoCaido
+    100092: A3_Puente
+    100094: troncos
+    100096: troncos003
+    100098: troncos2
+    100100: ZBrush_defualt_group
+    100102: ZBrush_defualt_group001
+    100104: ZBrush_defualt_group002
+    100106: ZBrush_defualt_group003
+    100108: ZBrush_defualt_group004
+    400000: //RootNode
+    400002: A1_A2_Pared
+    400004: A1_Altura1_1
+    400006: A1_Altura2_1
+    400008: A1_Altura3_1
+    400010: A1_Altura4_1
+    400012: A1_Altura5_1
+    400014: A1_Altura6_1
+    400016: A1_Altura7_1
+    400018: A2_Altura11_2
+    400020: A2_Altura8_1
+    400022: A2_Altura8_1 1
+    400024: A2_Altura8_2
+    400026: A2_Altura_11_1
+    400028: A2_arbol puzle_base
+    400030: A2_arbol puzle_hojas
+    400032: A2_arbol_1
+    400034: A2_arbol_2
+    400036: A2_arbol_3
+    400038: A2_arbol_4
+    400040: A2_arbol_5
+    400042: A2_arbol_6
+    400044: A2_arbol_7
+    400046: A2_arbol_puzle tronco
+    400048: A2_arboles
+    400050: A2_arboles001
+    400052: A2_arboles002
+    400054: A2_arboles003
+    400056: A2_arboles004
+    400058: A2_arboles006
+    400060: A2_arboles007
+    400062: A2_arboles008
+    400064: A2_arboles009
+    400066: A2_arboles010
+    400068: A2_Cascada
+    400070: A2_Pared 2
+    400072: A2_PlataformaEmergente
+    400074: A2_PlataformaEmergente_2
+    400076: A2_PlataformaMovil
+    400078: A2_Rio
+    400080: A2_ROCAS_CASCADA
+    400082: A2_ROCAS_CASCADA 1
+    400084: A2_rocas_puente
+    400086: A2_RUNA
+    400088: A2_RUNA_estructura
+    400090: A2_TroncoCaido
+    400092: A3_Puente
+    400094: troncos
+    400096: troncos003
+    400098: troncos2
+    400100: ZBrush_defualt_group
+    400102: ZBrush_defualt_group001
+    400104: ZBrush_defualt_group002
+    400106: ZBrush_defualt_group003
+    400108: ZBrush_defualt_group004
+    2300000: A1_A2_Pared
+    2300002: A1_Altura1_1
+    2300004: A1_Altura2_1
+    2300006: A1_Altura3_1
+    2300008: A1_Altura4_1
+    2300010: A1_Altura5_1
+    2300012: A1_Altura6_1
+    2300014: A1_Altura7_1
+    2300016: A2_Altura11_2
+    2300018: A2_Altura8_1
+    2300020: A2_Altura8_1 1
+    2300022: A2_Altura8_2
+    2300024: A2_Altura_11_1
+    2300026: A2_arbol puzle_base
+    2300028: A2_arbol puzle_hojas
+    2300030: A2_arbol_1
+    2300032: A2_arbol_2
+    2300034: A2_arbol_3
+    2300036: A2_arbol_4
+    2300038: A2_arbol_5
+    2300040: A2_arbol_6
+    2300042: A2_arbol_7
+    2300044: A2_arbol_puzle tronco
+    2300046: A2_arboles
+    2300048: A2_arboles001
+    2300050: A2_arboles002
+    2300052: A2_arboles003
+    2300054: A2_arboles004
+    2300056: A2_arboles006
+    2300058: A2_arboles007
+    2300060: A2_arboles008
+    2300062: A2_arboles009
+    2300064: A2_arboles010
+    2300066: A2_Cascada
+    2300068: A2_Pared 2
+    2300070: A2_PlataformaEmergente
+    2300072: A2_PlataformaEmergente_2
+    2300074: A2_PlataformaMovil
+    2300076: A2_Rio
+    2300078: A2_ROCAS_CASCADA
+    2300080: A2_ROCAS_CASCADA 1
+    2300082: A2_rocas_puente
+    2300084: A2_RUNA
+    2300086: A2_RUNA_estructura
+    2300088: A2_TroncoCaido
+    2300090: A3_Puente
+    2300092: troncos
+    2300094: troncos003
+    2300096: troncos2
+    2300098: ZBrush_defualt_group
+    2300100: ZBrush_defualt_group001
+    2300102: ZBrush_defualt_group002
+    2300104: ZBrush_defualt_group003
+    2300106: ZBrush_defualt_group004
+    3300000: A1_A2_Pared
+    3300002: A1_Altura1_1
+    3300004: A1_Altura2_1
+    3300006: A1_Altura3_1
+    3300008: A1_Altura4_1
+    3300010: A1_Altura5_1
+    3300012: A1_Altura6_1
+    3300014: A1_Altura7_1
+    3300016: A2_Altura11_2
+    3300018: A2_Altura8_1
+    3300020: A2_Altura8_1 1
+    3300022: A2_Altura8_2
+    3300024: A2_Altura_11_1
+    3300026: A2_arbol puzle_base
+    3300028: A2_arbol puzle_hojas
+    3300030: A2_arbol_1
+    3300032: A2_arbol_2
+    3300034: A2_arbol_3
+    3300036: A2_arbol_4
+    3300038: A2_arbol_5
+    3300040: A2_arbol_6
+    3300042: A2_arbol_7
+    3300044: A2_arbol_puzle tronco
+    3300046: A2_arboles
+    3300048: A2_arboles001
+    3300050: A2_arboles002
+    3300052: A2_arboles003
+    3300054: A2_arboles004
+    3300056: A2_arboles006
+    3300058: A2_arboles007
+    3300060: A2_arboles008
+    3300062: A2_arboles009
+    3300064: A2_arboles010
+    3300066: A2_Cascada
+    3300068: A2_Pared 2
+    3300070: A2_PlataformaEmergente
+    3300072: A2_PlataformaEmergente_2
+    3300074: A2_PlataformaMovil
+    3300076: A2_Rio
+    3300078: A2_ROCAS_CASCADA
+    3300080: A2_ROCAS_CASCADA 1
+    3300082: A2_rocas_puente
+    3300084: A2_RUNA
+    3300086: A2_RUNA_estructura
+    3300088: A2_TroncoCaido
+    3300090: A3_Puente
+    3300092: troncos
+    3300094: troncos003
+    3300096: troncos2
+    3300098: ZBrush_defualt_group
+    3300100: ZBrush_defualt_group001
+    3300102: ZBrush_defualt_group002
+    3300104: ZBrush_defualt_group003
+    3300106: ZBrush_defualt_group004
+    4300000: A1_Altura2_1
+    4300002: A1_Altura3_1
+    4300004: A1_Altura4_1
+    4300006: A1_Altura5_1
+    4300008: A1_Altura6_1
+    4300010: A1_Altura7_1
+    4300012: A2_Altura8_1
+    4300014: A1_Altura1_1
+    4300016: troncos
+    4300018: troncos2
+    4300020: troncos003
+    4300022: A2_arboles
+    4300024: A2_arboles001
+    4300026: A2_arboles002
+    4300028: A2_arboles003
+    4300030: A2_arboles004
+    4300032: A2_arboles006
+    4300034: A2_ROCAS_CASCADA
+    4300036: ZBrush_defualt_group
+    4300038: ZBrush_defualt_group001
+    4300040: ZBrush_defualt_group002
+    4300042: A2_arboles007
+    4300044: ZBrush_defualt_group003
+    4300046: A2_arboles008
+    4300048: ZBrush_defualt_group004
+    4300050: A2_arboles009
+    4300052: A2_arboles010
+    4300054: A1_A2_Pared
+    4300056: A2_PlataformaMovil
+    4300058: A2_Altura_11_1
+    4300060: A2_PlataformaEmergente
+    4300062: A2_TroncoCaido
+    4300064: A2_Rio
+    4300066: A2_Cascada
+    4300068: A2_Altura11_2
+    4300070: A2_Altura8_2
+    4300072: A2_Altura8_1
+    4300074: A2_Pared 2
+    4300076: A2_ROCAS_CASCADA
+    4300078: A2_RUNA_estructura
+    4300080: A2_RUNA
+    4300082: A2_arbol_7
+    4300084: A2_arbol_puzle tronco
+    4300086: A2_arbol puzle_base
+    4300088: A2_arbol puzle_hojas
+    4300090: A2_PlataformaEmergente_2
+    4300092: A2_arbol_1
+    4300094: A2_arbol_2
+    4300096: A2_arbol_3
+    4300098: A2_arbol_4
+    4300100: A2_arbol_5
+    4300102: A2_arbol_6
+    4300104: A3_Puente
+    4300106: A2_rocas_puente
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

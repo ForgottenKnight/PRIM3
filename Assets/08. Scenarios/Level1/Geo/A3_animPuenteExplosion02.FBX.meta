@@ -1,0 +1,713 @@
+fileFormatVersion: 2
+guid: 583ead255ffd735449ecba43a10080f4
+timeCreated: 1492292746
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: A3_Puente
+    100004: A3_Puente_Centro_Part_1
+    100006: A3_Puente_Centro_Part_10
+    100008: A3_Puente_Centro_Part_100
+    100010: A3_Puente_Centro_Part_11
+    100012: A3_Puente_Centro_Part_12
+    100014: A3_Puente_Centro_Part_14
+    100016: A3_Puente_Centro_Part_16
+    100018: A3_Puente_Centro_Part_18
+    100020: A3_Puente_Centro_Part_2
+    100022: A3_Puente_Centro_Part_20
+    100024: A3_Puente_Centro_Part_21
+    100026: A3_Puente_Centro_Part_22
+    100028: A3_Puente_Centro_Part_23
+    100030: A3_Puente_Centro_Part_24
+    100032: A3_Puente_Centro_Part_26
+    100034: A3_Puente_Centro_Part_29
+    100036: A3_Puente_Centro_Part_3
+    100038: A3_Puente_Centro_Part_30
+    100040: A3_Puente_Centro_Part_31
+    100042: A3_Puente_Centro_Part_32
+    100044: A3_Puente_Centro_Part_33
+    100046: A3_Puente_Centro_Part_34
+    100048: A3_Puente_Centro_Part_35
+    100050: A3_Puente_Centro_Part_36
+    100052: A3_Puente_Centro_Part_37
+    100054: A3_Puente_Centro_Part_38
+    100056: A3_Puente_Centro_Part_39
+    100058: A3_Puente_Centro_Part_4
+    100060: A3_Puente_Centro_Part_40
+    100062: A3_Puente_Centro_Part_41
+    100064: A3_Puente_Centro_Part_44
+    100066: A3_Puente_Centro_Part_46
+    100068: A3_Puente_Centro_Part_47
+    100070: A3_Puente_Centro_Part_49
+    100072: A3_Puente_Centro_Part_5
+    100074: A3_Puente_Centro_Part_50
+    100076: A3_Puente_Centro_Part_51
+    100078: A3_Puente_Centro_Part_52
+    100080: A3_Puente_Centro_Part_53
+    100082: A3_Puente_Centro_Part_54
+    100084: A3_Puente_Centro_Part_55
+    100086: A3_Puente_Centro_Part_56
+    100088: A3_Puente_Centro_Part_57
+    100090: A3_Puente_Centro_Part_58
+    100092: A3_Puente_Centro_Part_59
+    100094: A3_Puente_Centro_Part_6
+    100096: A3_Puente_Centro_Part_60
+    100098: A3_Puente_Centro_Part_61
+    100100: A3_Puente_Centro_Part_62
+    100102: A3_Puente_Centro_Part_63
+    100104: A3_Puente_Centro_Part_64
+    100106: A3_Puente_Centro_Part_65
+    100108: A3_Puente_Centro_Part_66
+    100110: A3_Puente_Centro_Part_67
+    100112: A3_Puente_Centro_Part_68
+    100114: A3_Puente_Centro_Part_69
+    100116: A3_Puente_Centro_Part_7
+    100118: A3_Puente_Centro_Part_70
+    100120: A3_Puente_Centro_Part_71
+    100122: A3_Puente_Centro_Part_72
+    100124: A3_Puente_Centro_Part_73
+    100126: A3_Puente_Centro_Part_74
+    100128: A3_Puente_Centro_Part_75
+    100130: A3_Puente_Centro_Part_76
+    100132: A3_Puente_Centro_Part_77
+    100134: A3_Puente_Centro_Part_78
+    100136: A3_Puente_Centro_Part_79
+    100138: A3_Puente_Centro_Part_8
+    100140: A3_Puente_Centro_Part_80
+    100142: A3_Puente_Centro_Part_81
+    100144: A3_Puente_Centro_Part_82
+    100146: A3_Puente_Centro_Part_83
+    100148: A3_Puente_Centro_Part_84
+    100150: A3_Puente_Centro_Part_87
+    100152: A3_Puente_Centro_Part_88
+    100154: A3_Puente_Centro_Part_9
+    100156: A3_Puente_Centro_Part_90
+    100158: A3_Puente_Centro_Part_91
+    100160: A3_Puente_Centro_Part_92
+    100162: A3_Puente_Centro_Part_93
+    100164: A3_Puente_Centro_Part_94
+    100166: A3_Puente_Centro_Part_95
+    100168: A3_Puente_Centro_Part_96
+    100170: A3_Puente_Centro_Part_97
+    100172: A3_Puente_Centro_Part_99
+    400000: //RootNode
+    400002: A3_Puente
+    400004: A3_Puente_Centro_Part_1
+    400006: A3_Puente_Centro_Part_10
+    400008: A3_Puente_Centro_Part_100
+    400010: A3_Puente_Centro_Part_11
+    400012: A3_Puente_Centro_Part_12
+    400014: A3_Puente_Centro_Part_14
+    400016: A3_Puente_Centro_Part_16
+    400018: A3_Puente_Centro_Part_18
+    400020: A3_Puente_Centro_Part_2
+    400022: A3_Puente_Centro_Part_20
+    400024: A3_Puente_Centro_Part_21
+    400026: A3_Puente_Centro_Part_22
+    400028: A3_Puente_Centro_Part_23
+    400030: A3_Puente_Centro_Part_24
+    400032: A3_Puente_Centro_Part_26
+    400034: A3_Puente_Centro_Part_29
+    400036: A3_Puente_Centro_Part_3
+    400038: A3_Puente_Centro_Part_30
+    400040: A3_Puente_Centro_Part_31
+    400042: A3_Puente_Centro_Part_32
+    400044: A3_Puente_Centro_Part_33
+    400046: A3_Puente_Centro_Part_34
+    400048: A3_Puente_Centro_Part_35
+    400050: A3_Puente_Centro_Part_36
+    400052: A3_Puente_Centro_Part_37
+    400054: A3_Puente_Centro_Part_38
+    400056: A3_Puente_Centro_Part_39
+    400058: A3_Puente_Centro_Part_4
+    400060: A3_Puente_Centro_Part_40
+    400062: A3_Puente_Centro_Part_41
+    400064: A3_Puente_Centro_Part_44
+    400066: A3_Puente_Centro_Part_46
+    400068: A3_Puente_Centro_Part_47
+    400070: A3_Puente_Centro_Part_49
+    400072: A3_Puente_Centro_Part_5
+    400074: A3_Puente_Centro_Part_50
+    400076: A3_Puente_Centro_Part_51
+    400078: A3_Puente_Centro_Part_52
+    400080: A3_Puente_Centro_Part_53
+    400082: A3_Puente_Centro_Part_54
+    400084: A3_Puente_Centro_Part_55
+    400086: A3_Puente_Centro_Part_56
+    400088: A3_Puente_Centro_Part_57
+    400090: A3_Puente_Centro_Part_58
+    400092: A3_Puente_Centro_Part_59
+    400094: A3_Puente_Centro_Part_6
+    400096: A3_Puente_Centro_Part_60
+    400098: A3_Puente_Centro_Part_61
+    400100: A3_Puente_Centro_Part_62
+    400102: A3_Puente_Centro_Part_63
+    400104: A3_Puente_Centro_Part_64
+    400106: A3_Puente_Centro_Part_65
+    400108: A3_Puente_Centro_Part_66
+    400110: A3_Puente_Centro_Part_67
+    400112: A3_Puente_Centro_Part_68
+    400114: A3_Puente_Centro_Part_69
+    400116: A3_Puente_Centro_Part_7
+    400118: A3_Puente_Centro_Part_70
+    400120: A3_Puente_Centro_Part_71
+    400122: A3_Puente_Centro_Part_72
+    400124: A3_Puente_Centro_Part_73
+    400126: A3_Puente_Centro_Part_74
+    400128: A3_Puente_Centro_Part_75
+    400130: A3_Puente_Centro_Part_76
+    400132: A3_Puente_Centro_Part_77
+    400134: A3_Puente_Centro_Part_78
+    400136: A3_Puente_Centro_Part_79
+    400138: A3_Puente_Centro_Part_8
+    400140: A3_Puente_Centro_Part_80
+    400142: A3_Puente_Centro_Part_81
+    400144: A3_Puente_Centro_Part_82
+    400146: A3_Puente_Centro_Part_83
+    400148: A3_Puente_Centro_Part_84
+    400150: A3_Puente_Centro_Part_87
+    400152: A3_Puente_Centro_Part_88
+    400154: A3_Puente_Centro_Part_9
+    400156: A3_Puente_Centro_Part_90
+    400158: A3_Puente_Centro_Part_91
+    400160: A3_Puente_Centro_Part_92
+    400162: A3_Puente_Centro_Part_93
+    400164: A3_Puente_Centro_Part_94
+    400166: A3_Puente_Centro_Part_95
+    400168: A3_Puente_Centro_Part_96
+    400170: A3_Puente_Centro_Part_97
+    400172: A3_Puente_Centro_Part_99
+    2300000: A3_Puente
+    2300002: A3_Puente_Centro_Part_1
+    2300004: A3_Puente_Centro_Part_10
+    2300006: A3_Puente_Centro_Part_100
+    2300008: A3_Puente_Centro_Part_11
+    2300010: A3_Puente_Centro_Part_12
+    2300012: A3_Puente_Centro_Part_14
+    2300014: A3_Puente_Centro_Part_16
+    2300016: A3_Puente_Centro_Part_18
+    2300018: A3_Puente_Centro_Part_2
+    2300020: A3_Puente_Centro_Part_20
+    2300022: A3_Puente_Centro_Part_21
+    2300024: A3_Puente_Centro_Part_22
+    2300026: A3_Puente_Centro_Part_23
+    2300028: A3_Puente_Centro_Part_24
+    2300030: A3_Puente_Centro_Part_26
+    2300032: A3_Puente_Centro_Part_29
+    2300034: A3_Puente_Centro_Part_3
+    2300036: A3_Puente_Centro_Part_30
+    2300038: A3_Puente_Centro_Part_31
+    2300040: A3_Puente_Centro_Part_32
+    2300042: A3_Puente_Centro_Part_33
+    2300044: A3_Puente_Centro_Part_34
+    2300046: A3_Puente_Centro_Part_35
+    2300048: A3_Puente_Centro_Part_36
+    2300050: A3_Puente_Centro_Part_37
+    2300052: A3_Puente_Centro_Part_38
+    2300054: A3_Puente_Centro_Part_39
+    2300056: A3_Puente_Centro_Part_4
+    2300058: A3_Puente_Centro_Part_40
+    2300060: A3_Puente_Centro_Part_41
+    2300062: A3_Puente_Centro_Part_44
+    2300064: A3_Puente_Centro_Part_46
+    2300066: A3_Puente_Centro_Part_47
+    2300068: A3_Puente_Centro_Part_49
+    2300070: A3_Puente_Centro_Part_5
+    2300072: A3_Puente_Centro_Part_50
+    2300074: A3_Puente_Centro_Part_51
+    2300076: A3_Puente_Centro_Part_52
+    2300078: A3_Puente_Centro_Part_53
+    2300080: A3_Puente_Centro_Part_54
+    2300082: A3_Puente_Centro_Part_55
+    2300084: A3_Puente_Centro_Part_56
+    2300086: A3_Puente_Centro_Part_57
+    2300088: A3_Puente_Centro_Part_58
+    2300090: A3_Puente_Centro_Part_59
+    2300092: A3_Puente_Centro_Part_6
+    2300094: A3_Puente_Centro_Part_60
+    2300096: A3_Puente_Centro_Part_61
+    2300098: A3_Puente_Centro_Part_62
+    2300100: A3_Puente_Centro_Part_63
+    2300102: A3_Puente_Centro_Part_64
+    2300104: A3_Puente_Centro_Part_65
+    2300106: A3_Puente_Centro_Part_66
+    2300108: A3_Puente_Centro_Part_67
+    2300110: A3_Puente_Centro_Part_68
+    2300112: A3_Puente_Centro_Part_69
+    2300114: A3_Puente_Centro_Part_7
+    2300116: A3_Puente_Centro_Part_70
+    2300118: A3_Puente_Centro_Part_71
+    2300120: A3_Puente_Centro_Part_72
+    2300122: A3_Puente_Centro_Part_73
+    2300124: A3_Puente_Centro_Part_74
+    2300126: A3_Puente_Centro_Part_75
+    2300128: A3_Puente_Centro_Part_76
+    2300130: A3_Puente_Centro_Part_77
+    2300132: A3_Puente_Centro_Part_78
+    2300134: A3_Puente_Centro_Part_79
+    2300136: A3_Puente_Centro_Part_8
+    2300138: A3_Puente_Centro_Part_80
+    2300140: A3_Puente_Centro_Part_81
+    2300142: A3_Puente_Centro_Part_82
+    2300144: A3_Puente_Centro_Part_83
+    2300146: A3_Puente_Centro_Part_84
+    2300148: A3_Puente_Centro_Part_87
+    2300150: A3_Puente_Centro_Part_88
+    2300152: A3_Puente_Centro_Part_9
+    2300154: A3_Puente_Centro_Part_90
+    2300156: A3_Puente_Centro_Part_91
+    2300158: A3_Puente_Centro_Part_92
+    2300160: A3_Puente_Centro_Part_93
+    2300162: A3_Puente_Centro_Part_94
+    2300164: A3_Puente_Centro_Part_95
+    2300166: A3_Puente_Centro_Part_96
+    2300168: A3_Puente_Centro_Part_97
+    2300170: A3_Puente_Centro_Part_99
+    3300000: A3_Puente
+    3300002: A3_Puente_Centro_Part_1
+    3300004: A3_Puente_Centro_Part_10
+    3300006: A3_Puente_Centro_Part_100
+    3300008: A3_Puente_Centro_Part_11
+    3300010: A3_Puente_Centro_Part_12
+    3300012: A3_Puente_Centro_Part_14
+    3300014: A3_Puente_Centro_Part_16
+    3300016: A3_Puente_Centro_Part_18
+    3300018: A3_Puente_Centro_Part_2
+    3300020: A3_Puente_Centro_Part_20
+    3300022: A3_Puente_Centro_Part_21
+    3300024: A3_Puente_Centro_Part_22
+    3300026: A3_Puente_Centro_Part_23
+    3300028: A3_Puente_Centro_Part_24
+    3300030: A3_Puente_Centro_Part_26
+    3300032: A3_Puente_Centro_Part_29
+    3300034: A3_Puente_Centro_Part_3
+    3300036: A3_Puente_Centro_Part_30
+    3300038: A3_Puente_Centro_Part_31
+    3300040: A3_Puente_Centro_Part_32
+    3300042: A3_Puente_Centro_Part_33
+    3300044: A3_Puente_Centro_Part_34
+    3300046: A3_Puente_Centro_Part_35
+    3300048: A3_Puente_Centro_Part_36
+    3300050: A3_Puente_Centro_Part_37
+    3300052: A3_Puente_Centro_Part_38
+    3300054: A3_Puente_Centro_Part_39
+    3300056: A3_Puente_Centro_Part_4
+    3300058: A3_Puente_Centro_Part_40
+    3300060: A3_Puente_Centro_Part_41
+    3300062: A3_Puente_Centro_Part_44
+    3300064: A3_Puente_Centro_Part_46
+    3300066: A3_Puente_Centro_Part_47
+    3300068: A3_Puente_Centro_Part_49
+    3300070: A3_Puente_Centro_Part_5
+    3300072: A3_Puente_Centro_Part_50
+    3300074: A3_Puente_Centro_Part_51
+    3300076: A3_Puente_Centro_Part_52
+    3300078: A3_Puente_Centro_Part_53
+    3300080: A3_Puente_Centro_Part_54
+    3300082: A3_Puente_Centro_Part_55
+    3300084: A3_Puente_Centro_Part_56
+    3300086: A3_Puente_Centro_Part_57
+    3300088: A3_Puente_Centro_Part_58
+    3300090: A3_Puente_Centro_Part_59
+    3300092: A3_Puente_Centro_Part_6
+    3300094: A3_Puente_Centro_Part_60
+    3300096: A3_Puente_Centro_Part_61
+    3300098: A3_Puente_Centro_Part_62
+    3300100: A3_Puente_Centro_Part_63
+    3300102: A3_Puente_Centro_Part_64
+    3300104: A3_Puente_Centro_Part_65
+    3300106: A3_Puente_Centro_Part_66
+    3300108: A3_Puente_Centro_Part_67
+    3300110: A3_Puente_Centro_Part_68
+    3300112: A3_Puente_Centro_Part_69
+    3300114: A3_Puente_Centro_Part_7
+    3300116: A3_Puente_Centro_Part_70
+    3300118: A3_Puente_Centro_Part_71
+    3300120: A3_Puente_Centro_Part_72
+    3300122: A3_Puente_Centro_Part_73
+    3300124: A3_Puente_Centro_Part_74
+    3300126: A3_Puente_Centro_Part_75
+    3300128: A3_Puente_Centro_Part_76
+    3300130: A3_Puente_Centro_Part_77
+    3300132: A3_Puente_Centro_Part_78
+    3300134: A3_Puente_Centro_Part_79
+    3300136: A3_Puente_Centro_Part_8
+    3300138: A3_Puente_Centro_Part_80
+    3300140: A3_Puente_Centro_Part_81
+    3300142: A3_Puente_Centro_Part_82
+    3300144: A3_Puente_Centro_Part_83
+    3300146: A3_Puente_Centro_Part_84
+    3300148: A3_Puente_Centro_Part_87
+    3300150: A3_Puente_Centro_Part_88
+    3300152: A3_Puente_Centro_Part_9
+    3300154: A3_Puente_Centro_Part_90
+    3300156: A3_Puente_Centro_Part_91
+    3300158: A3_Puente_Centro_Part_92
+    3300160: A3_Puente_Centro_Part_93
+    3300162: A3_Puente_Centro_Part_94
+    3300164: A3_Puente_Centro_Part_95
+    3300166: A3_Puente_Centro_Part_96
+    3300168: A3_Puente_Centro_Part_97
+    3300170: A3_Puente_Centro_Part_99
+    4300000: A3_Puente
+    4300002: A3_Puente_Centro_Part_1
+    4300004: A3_Puente_Centro_Part_2
+    4300006: A3_Puente_Centro_Part_3
+    4300008: A3_Puente_Centro_Part_4
+    4300010: A3_Puente_Centro_Part_5
+    4300012: A3_Puente_Centro_Part_6
+    4300014: A3_Puente_Centro_Part_7
+    4300016: A3_Puente_Centro_Part_8
+    4300018: A3_Puente_Centro_Part_9
+    4300020: A3_Puente_Centro_Part_10
+    4300022: A3_Puente_Centro_Part_11
+    4300024: A3_Puente_Centro_Part_12
+    4300026: A3_Puente_Centro_Part_14
+    4300028: A3_Puente_Centro_Part_16
+    4300030: A3_Puente_Centro_Part_18
+    4300032: A3_Puente_Centro_Part_20
+    4300034: A3_Puente_Centro_Part_21
+    4300036: A3_Puente_Centro_Part_22
+    4300038: A3_Puente_Centro_Part_23
+    4300040: A3_Puente_Centro_Part_24
+    4300042: A3_Puente_Centro_Part_26
+    4300044: A3_Puente_Centro_Part_29
+    4300046: A3_Puente_Centro_Part_30
+    4300048: A3_Puente_Centro_Part_31
+    4300050: A3_Puente_Centro_Part_32
+    4300052: A3_Puente_Centro_Part_33
+    4300054: A3_Puente_Centro_Part_34
+    4300056: A3_Puente_Centro_Part_35
+    4300058: A3_Puente_Centro_Part_36
+    4300060: A3_Puente_Centro_Part_37
+    4300062: A3_Puente_Centro_Part_38
+    4300064: A3_Puente_Centro_Part_39
+    4300066: A3_Puente_Centro_Part_40
+    4300068: A3_Puente_Centro_Part_41
+    4300070: A3_Puente_Centro_Part_44
+    4300072: A3_Puente_Centro_Part_46
+    4300074: A3_Puente_Centro_Part_47
+    4300076: A3_Puente_Centro_Part_49
+    4300078: A3_Puente_Centro_Part_50
+    4300080: A3_Puente_Centro_Part_51
+    4300082: A3_Puente_Centro_Part_52
+    4300084: A3_Puente_Centro_Part_53
+    4300086: A3_Puente_Centro_Part_54
+    4300088: A3_Puente_Centro_Part_55
+    4300090: A3_Puente_Centro_Part_56
+    4300092: A3_Puente_Centro_Part_57
+    4300094: A3_Puente_Centro_Part_58
+    4300096: A3_Puente_Centro_Part_59
+    4300098: A3_Puente_Centro_Part_60
+    4300100: A3_Puente_Centro_Part_61
+    4300102: A3_Puente_Centro_Part_62
+    4300104: A3_Puente_Centro_Part_63
+    4300106: A3_Puente_Centro_Part_64
+    4300108: A3_Puente_Centro_Part_65
+    4300110: A3_Puente_Centro_Part_66
+    4300112: A3_Puente_Centro_Part_67
+    4300114: A3_Puente_Centro_Part_68
+    4300116: A3_Puente_Centro_Part_69
+    4300118: A3_Puente_Centro_Part_70
+    4300120: A3_Puente_Centro_Part_71
+    4300122: A3_Puente_Centro_Part_72
+    4300124: A3_Puente_Centro_Part_73
+    4300126: A3_Puente_Centro_Part_74
+    4300128: A3_Puente_Centro_Part_75
+    4300130: A3_Puente_Centro_Part_76
+    4300132: A3_Puente_Centro_Part_77
+    4300134: A3_Puente_Centro_Part_78
+    4300136: A3_Puente_Centro_Part_79
+    4300138: A3_Puente_Centro_Part_80
+    4300140: A3_Puente_Centro_Part_81
+    4300142: A3_Puente_Centro_Part_82
+    4300144: A3_Puente_Centro_Part_83
+    4300146: A3_Puente_Centro_Part_84
+    4300148: A3_Puente_Centro_Part_87
+    4300150: A3_Puente_Centro_Part_88
+    4300152: A3_Puente_Centro_Part_90
+    4300154: A3_Puente_Centro_Part_91
+    4300156: A3_Puente_Centro_Part_92
+    4300158: A3_Puente_Centro_Part_93
+    4300160: A3_Puente_Centro_Part_94
+    4300162: A3_Puente_Centro_Part_95
+    4300164: A3_Puente_Centro_Part_96
+    4300166: A3_Puente_Centro_Part_97
+    4300168: A3_Puente_Centro_Part_99
+    4300170: A3_Puente_Centro_Part_100
+    7400000: Take001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: A3_Puente
+        weight: 1
+      - path: A3_Puente_Centro_Part_1
+        weight: 1
+      - path: A3_Puente_Centro_Part_2
+        weight: 1
+      - path: A3_Puente_Centro_Part_3
+        weight: 1
+      - path: A3_Puente_Centro_Part_4
+        weight: 1
+      - path: A3_Puente_Centro_Part_5
+        weight: 1
+      - path: A3_Puente_Centro_Part_6
+        weight: 1
+      - path: A3_Puente_Centro_Part_7
+        weight: 1
+      - path: A3_Puente_Centro_Part_8
+        weight: 1
+      - path: A3_Puente_Centro_Part_9
+        weight: 1
+      - path: A3_Puente_Centro_Part_10
+        weight: 1
+      - path: A3_Puente_Centro_Part_11
+        weight: 1
+      - path: A3_Puente_Centro_Part_12
+        weight: 1
+      - path: A3_Puente_Centro_Part_14
+        weight: 1
+      - path: A3_Puente_Centro_Part_16
+        weight: 1
+      - path: A3_Puente_Centro_Part_18
+        weight: 1
+      - path: A3_Puente_Centro_Part_20
+        weight: 1
+      - path: A3_Puente_Centro_Part_21
+        weight: 1
+      - path: A3_Puente_Centro_Part_22
+        weight: 1
+      - path: A3_Puente_Centro_Part_23
+        weight: 1
+      - path: A3_Puente_Centro_Part_24
+        weight: 1
+      - path: A3_Puente_Centro_Part_26
+        weight: 1
+      - path: A3_Puente_Centro_Part_29
+        weight: 1
+      - path: A3_Puente_Centro_Part_30
+        weight: 1
+      - path: A3_Puente_Centro_Part_31
+        weight: 1
+      - path: A3_Puente_Centro_Part_32
+        weight: 1
+      - path: A3_Puente_Centro_Part_33
+        weight: 1
+      - path: A3_Puente_Centro_Part_34
+        weight: 1
+      - path: A3_Puente_Centro_Part_35
+        weight: 1
+      - path: A3_Puente_Centro_Part_36
+        weight: 1
+      - path: A3_Puente_Centro_Part_37
+        weight: 1
+      - path: A3_Puente_Centro_Part_38
+        weight: 1
+      - path: A3_Puente_Centro_Part_39
+        weight: 1
+      - path: A3_Puente_Centro_Part_40
+        weight: 1
+      - path: A3_Puente_Centro_Part_41
+        weight: 1
+      - path: A3_Puente_Centro_Part_44
+        weight: 1
+      - path: A3_Puente_Centro_Part_46
+        weight: 1
+      - path: A3_Puente_Centro_Part_47
+        weight: 1
+      - path: A3_Puente_Centro_Part_49
+        weight: 1
+      - path: A3_Puente_Centro_Part_50
+        weight: 1
+      - path: A3_Puente_Centro_Part_51
+        weight: 1
+      - path: A3_Puente_Centro_Part_52
+        weight: 1
+      - path: A3_Puente_Centro_Part_53
+        weight: 1
+      - path: A3_Puente_Centro_Part_54
+        weight: 1
+      - path: A3_Puente_Centro_Part_55
+        weight: 1
+      - path: A3_Puente_Centro_Part_56
+        weight: 1
+      - path: A3_Puente_Centro_Part_57
+        weight: 1
+      - path: A3_Puente_Centro_Part_58
+        weight: 1
+      - path: A3_Puente_Centro_Part_59
+        weight: 1
+      - path: A3_Puente_Centro_Part_60
+        weight: 1
+      - path: A3_Puente_Centro_Part_61
+        weight: 1
+      - path: A3_Puente_Centro_Part_62
+        weight: 1
+      - path: A3_Puente_Centro_Part_63
+        weight: 1
+      - path: A3_Puente_Centro_Part_64
+        weight: 1
+      - path: A3_Puente_Centro_Part_65
+        weight: 1
+      - path: A3_Puente_Centro_Part_66
+        weight: 1
+      - path: A3_Puente_Centro_Part_67
+        weight: 1
+      - path: A3_Puente_Centro_Part_68
+        weight: 1
+      - path: A3_Puente_Centro_Part_69
+        weight: 1
+      - path: A3_Puente_Centro_Part_70
+        weight: 1
+      - path: A3_Puente_Centro_Part_71
+        weight: 1
+      - path: A3_Puente_Centro_Part_72
+        weight: 1
+      - path: A3_Puente_Centro_Part_73
+        weight: 1
+      - path: A3_Puente_Centro_Part_74
+        weight: 1
+      - path: A3_Puente_Centro_Part_75
+        weight: 1
+      - path: A3_Puente_Centro_Part_76
+        weight: 1
+      - path: A3_Puente_Centro_Part_77
+        weight: 1
+      - path: A3_Puente_Centro_Part_78
+        weight: 1
+      - path: A3_Puente_Centro_Part_79
+        weight: 1
+      - path: A3_Puente_Centro_Part_80
+        weight: 1
+      - path: A3_Puente_Centro_Part_81
+        weight: 1
+      - path: A3_Puente_Centro_Part_82
+        weight: 1
+      - path: A3_Puente_Centro_Part_83
+        weight: 1
+      - path: A3_Puente_Centro_Part_84
+        weight: 1
+      - path: A3_Puente_Centro_Part_87
+        weight: 1
+      - path: A3_Puente_Centro_Part_88
+        weight: 1
+      - path: A3_Puente_Centro_Part_90
+        weight: 1
+      - path: A3_Puente_Centro_Part_91
+        weight: 1
+      - path: A3_Puente_Centro_Part_92
+        weight: 1
+      - path: A3_Puente_Centro_Part_93
+        weight: 1
+      - path: A3_Puente_Centro_Part_94
+        weight: 1
+      - path: A3_Puente_Centro_Part_95
+        weight: 1
+      - path: A3_Puente_Centro_Part_96
+        weight: 1
+      - path: A3_Puente_Centro_Part_97
+        weight: 1
+      - path: A3_Puente_Centro_Part_99
+        weight: 1
+      - path: A3_Puente_Centro_Part_100
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
