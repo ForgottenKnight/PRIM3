@@ -102,17 +102,15 @@ public class MSMS_Active_AreaAttack : MonoStateMachineState {
 		l_direction = l_direction.normalized;
 
 		for (int i = 1; i < l_steps; i++) {
-			GameObject l_stompRockEffect = Instantiate (stompRockPrefab);
-			l_stompRockEffect.transform.forward = l_direction;
-	
 			RaycastHit l_hit;
 			int l_layerMask = 1;
 
 
             if (Physics.Raycast((l_initialPosition + l_direction * i * l_distanceBetweenColliders), -Vector3.up, out l_hit, raycastDistance, l_layerMask))
             {
-				//l_stompRockEffect.transform.eulerAngles = new Vector3(Vector3.Angle(l_hit.normal, l_stompRockEffect.transform.up), l_stompRockEffect.transform.eulerAngles.y,  l_stompRockEffect.transform.eulerAngles.z);
-				l_stompRockEffect.transform.position = new Vector3 (l_hit.point.x, l_hit.point.y/* + l_stompRockEffect.GetComponent<GolemStomp>().initialEffectSize.y * 0.5f*/, l_hit.point.z);
+				GameObject l_stompRockEffect = Instantiate (stompRockPrefab);
+				l_stompRockEffect.transform.forward = l_direction;
+				l_stompRockEffect.transform.position = new Vector3 (l_hit.point.x, l_hit.point.y, l_hit.point.z);
             }
             else
             {

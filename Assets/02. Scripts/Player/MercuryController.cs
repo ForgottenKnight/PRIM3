@@ -13,6 +13,7 @@ public class MercuryController : SpecialAbility {
 	public float costeEnergia = 20.0f;
     public float energyPerSecond = 5.0f;
 	public bool teleportIfEnergyWasted = false;
+	public float raycastDistance = 100.0f;
 
 	public float delay = 2.0f;
 	private float m_DelayTimer = 0.0f;
@@ -227,21 +228,21 @@ public class MercuryController : SpecialAbility {
 		l_direction = l_direction.normalized;
 
 		for (int i = 0; i < l_steps; i++) {
-
-			//Customizando parametros del prefab
-			GameObject l_mercuryEffect = Instantiate (mercuryTeleport);
-			l_mercuryEffect.transform.forward = transform.forward;
-			GameObject l_mercuryEffectParticles = l_mercuryEffect.transform.Find ("Particles").gameObject;
-
-			if (i == 0 || i == (l_steps - 1)) {
-				l_mercuryEffectParticles.transform.position -= new Vector3 (0, 1, 0);
-			}
-
 			RaycastHit l_hit;
 			int l_layerMask = 1;
 
-			if(Physics.Raycast ((transform.position + l_direction * i * l_distanceBetweenColliders), -Vector3.up, out l_hit, 100.0f, l_layerMask)) {
-				l_mercuryEffect.transform.eulerAngles = new Vector3(Vector3.Angle(l_hit.normal, l_mercuryEffect.transform.up), l_mercuryEffect.transform.eulerAngles.y,  l_mercuryEffect.transform.eulerAngles.z);
+			if(Physics.Raycast ((transform.position + l_direction * i * l_distanceBetweenColliders), -Vector3.up, out l_hit, raycastDistance, l_layerMask)) {
+				//Customizando parametros del prefab
+				GameObject l_mercuryEffect = Instantiate (mercuryTeleport);
+				GameObject l_mercuryEffectParticles = l_mercuryEffect.transform.Find ("Particles").gameObject;
+
+				if (i == 0 || i == (l_steps - 1)) {
+					l_mercuryEffectParticles.transform.position -= new Vector3 (0, 1, 0);
+				}
+
+				//l_mercuryEffect.transform.eulerAngles = new Vector3(Vector3.Angle(l_hit.normal, l_mercuryEffect.transform.up), l_mercuryEffect.transform.eulerAngles.y,  l_mercuryEffect.transform.eulerAngles.z);
+
+				l_mercuryEffect.transform.forward = l_direction;
 				l_mercuryEffect.transform.position = new Vector3 (l_hit.point.x, l_hit.point.y + l_mercuryEffect.GetComponent<MercuryTeleport>().effectSize.y * 0.5f, l_hit.point.z);
 			}
 		}

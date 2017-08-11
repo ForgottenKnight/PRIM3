@@ -160,8 +160,6 @@ public class PrimeCamera : MonoBehaviour {
 		RaycastHit[] l_hits;
 		float l_distance = Vector3.Distance (follow, finalPosition);
 		Vector3 l_direction = finalPosition - follow;
-		//Debug.Log ("follow: " + follow);
-		//Debug.Log ("player: " + players.GetChild (0).transform.position);
 
 		l_hits = Physics.RaycastAll (follow, l_direction, l_distance);
 
@@ -370,15 +368,12 @@ public class PrimeCamera : MonoBehaviour {
 			finalPosition = finalPosition  - transform.forward * zoom;
 		}
 
-		Debug.DrawLine (follow, finalPosition, Color.red);
-		Debug.DrawLine (follow, collisionPoint, Color.blue);
+		//Debug.DrawLine (follow, finalPosition, Color.red);
+		//Debug.DrawLine (follow, collisionPoint, Color.blue);
 
 		if (cameraCollision) {
-			Debug.Log ("Collision");
 			transform.position = collisionPoint;
 		} else {
-			Debug.Log ("No Collision");
-
 			transform.position = finalPosition;
 		}
 
